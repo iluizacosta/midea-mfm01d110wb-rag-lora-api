@@ -1,1869 +1,3331 @@
 LAVA E SECA
+
 MANUAL DO USUÁRIO
+
 11kg
+
 MODELOS:
 MFM01D110WB
+
 www.midea.com/br
+
 Obrigado por escolher a Midea!
-A Midea é uma empresa comprometida com o bem-estar das pessoas. Com a
-combinação de design inteligente e tecnologia, seu novo equipamento trará
-novas experiências e deixará seu dia a dia muito mais agradável. Uma receita
-simples que fez da Midea uma das maiores fabricantes de eletrodomésticos e
+
+A Midea é uma empresa comprometida com o bem-estar das pessoas. Com a 
+combinação de design inteligente e tecnologia, seu novo equipamento trará 
+novas experiências e deixará seu dia a dia muito mais agradável. Uma receita 
+simples que fez da Midea uma das maiores fabricantes de eletrodomésticos e 
 condicionadores de ar do mundo.
-Este manual foi feito especialmente para que você conheça todas as características
-do seu aparelho, além de informações sobre manutenção, execução de serviços
+
+Este manual foi feito especialmente para que você conheça todas as características 
+do seu aparelho, além de informações sobre manutenção, execução de serviços 
 e claro, como obter o máximo das suas funcionalidades.
-Caso precise de informações adicionais ou tenha dúvidas sobre a garantia,
-entre em contato através do nosso Serviço de Atendimento ao Consumidor,
+
+Caso precise de informações adicionais ou tenha dúvidas sobre a garantia, 
+entre em contato através do nosso Serviço de Atendimento ao Consumidor, 
 pelos telefones ou pelo site abaixo.
+
 SAC - Serviço de Atendimento ao Consumidor
+
 3003 1005 (capitais e regiões metropolitanas)
+
 0800 648 1005 (demais localidades)
+
 https://www.midea.com/br/contato/
+
 SUSTENTABILIDADE
-Os componentes desse produto e sua embalagem são
+
+Os componentes desse produto e sua embalagem são 
 recicláveis. Não descarte no lixo comum.
-Existe um sistema de reciclagem de eletrodomésticos
-e eletroeletrônicos que tem como principal objetivo
-a preservação do meio ambiente. Esse processo é
-chamado de logística reversa e a ABREE é a entidade
-gestora da qual somos associados, que gerencia a
+
+Existe um sistema de reciclagem de eletrodomésticos 
+e eletroeletrônicos que tem como principal objetivo 
+a preservação do meio ambiente. Esse processo é 
+chamado de logística reversa e a ABREE é a entidade 
+gestora da qual somos associados, que gerencia a 
 logística reversa de nossos produtos e suas embalagens.
-Existem pontos de recebimento espalhados por sua cidade.
-Ao levar o eletroeletrônico ou eletrodoméstico até lá, eles
-serão corretamente armazenados e depois terão o correto
-destino até a reciclagem. Confi ra no site da ABREE o ponto
+Existem pontos de recebimento espalhados por sua cidade. 
+Ao levar o eletroeletrônico ou eletrodoméstico até lá, eles 
+serão corretamente armazenados e depois terão o correto 
+destino até a reciclagem. Conﬁ ra no site da ABREE o ponto 
 de coleta mais próximo a você:
+
 http://www.abree.org.br/pontos-de-recebimento
+
 Agradecemos sua colaboração para tornarmos este planeta cada dia mais verde!
+
 CONTEÚDO
+
 OBSERVAÇÕES IMPORTANTES ....................................................................................................4
+
 1 - SEGURANÇA ....................................................................................................................................5
+
 1.1 - Medidas Importantes de Segurança ...............................................................................5
+
 2 - DESCRIÇÃO DO APARELHO ....................................................................................................9
+
 2.1 - Acessórios e Componentes ..............................................................................................9
 2.2 - Características Técnicas Gerais ....................................................................................10
 2.3 - Dimensões dos Aparelhos e Instalação .....................................................................10
-3 - INSTALAÇÃO .................................................................................................................................11
-3.1 - Recomendações Gerais .....................................................................................................11
-3.2 - Local de Instalação .............................................................................................................11
+
+3 - INSTALAÇÃO ................................................................................................................................. 11
+
+3.1 - Recomendações Gerais ..................................................................................................... 11
+3.2 - Local de Instalação ............................................................................................................. 11
 3.3 - Painel de Proteção Antirratos ........................................................................................12
-3.4 - Parafusos de Transporte .................................................................................................13
-3.5 - Espaçamento e Nivelamento ........................................................................................13
-3.6 - Nivelamento e Ajuste dos Pés Reguláveis ...............................................................14
-3.7 - Mangueira de Abastecimento de Água .....................................................................14
-3.8 - Instalação da Mangueira de Drenagem (Mangueira de Saída de Água) ......16
+3.4 - Parafusos de Transporte ................................................................................................. 13
+3.5 - Espaçamento e Nivelamento ........................................................................................ 13
+3.6 - Nivelamento e Ajuste dos Pés Reguláveis ............................................................... 14
+3.7 - Mangueira de Abastecimento de Água ..................................................................... 14
+3.8 - Instalação da Mangueira de Drenagem (Mangueira de Saída de Água) ...... 16
 3.9 - Instruções para Instalação Elétrica ..............................................................................17
-4 - VERIFICAÇÃO E CUIDADOS COM AS SUAS ROUPAS ...............................................18
+
+4 - VERIFICAÇÃO E CUIDADOS COM AS SUAS ROUPAS ............................................... 18
+
 5 - CARACTERÍSTICAS DO PAINEL DE CONTROLE ..........................................................22
+
 5.1 - Dispenser ................................................................................................................................22
-5.2 - Seletor De Programas .....................................................................................................23
-5.3 - Display ...................................................................................................................................23
-5.4 - Painel de Opções ..............................................................................................................24
-6 - UTILIZANDO SUA LAVA E SECA ........................................................................................25
-6.1 - Iniciando a Autolimpeza .................................................................................................25
-6.2 - Iniciando a Lavagem de Roupas .................................................................................25
-6.3 - Iniciando a Secagem de Roupas .................................................................................26
+5.2 - Seletor De Programas ..................................................................................................... 23
+5.3 - Display ................................................................................................................................... 23
+5.4 - Painel de Opções .............................................................................................................. 24
+
+6 - UTILIZANDO SUA LAVA E SECA ........................................................................................ 25
+
+6.1 - Iniciando a Autolimpeza ................................................................................................. 25
+6.2 - Iniciando a Lavagem de Roupas ................................................................................. 25
+6.3 - Iniciando a Secagem de Roupas ................................................................................. 26
+
 7 - DESCRIÇÃO DOS PROGRAMAS DA LAVA E SECA .....................................................27
-8 - UTILIZANDO AS FUNÇÕES DO PAINEL DE OPÇÕES ...............................................29
-9 - CONFIGURAÇÃO E CARACTERÍSTICAS DOS PROGRAMAS .................................33
+
+8 - UTILIZANDO AS FUNÇÕES DO PAINEL DE OPÇÕES ............................................... 29
+
+9 - CONFIGURAÇÃO E CARACTERÍSTICAS DOS PROGRAMAS ................................. 33
+
 10 - CONECTIVIDADE WIFI E APLICATIVO SMARTHOME .............................................34
+
 10.1 - Instalando o Aplicativo ..................................................................................................34
-10.2 - Confi gurando o Aplicativo ..........................................................................................34
-10.3 - Ativando o Controle Remoto .....................................................................................35
-11 - LIMPEZA E MANUTENÇÃO ...................................................................................................36
-12 - SOLUÇÃO DE PROBLEMAS .................................................................................................42
+10.2 - Conﬁ gurando o Aplicativo ..........................................................................................34
+10.3 - Ativando o Controle Remoto ..................................................................................... 35
+
+11 - LIMPEZA E MANUTENÇÃO ................................................................................................... 36
+
+12 - SOLUÇÃO DE PROBLEMAS ................................................................................................. 42
+
 12.1 - Códigos de Alarme no Painel ......................................................................................45
+
 3
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 OBSERVAÇÕES IMPORTANTES
-O manual do usuário que acompanha seu aparelho foi desenvolvido com o objetivo de
-esclarecer quaisquer dúvidas que possam surgir durante o uso, instalação e manutenção. Além
-disso, ele contém informações importantes sobre segurança que, se seguidas corretamente,
+
+O manual do usuário que acompanha seu aparelho foi desenvolvido com o objetivo de 
+esclarecer quaisquer dúvidas que possam surgir durante o uso, instalação e manutenção. Além 
+disso, ele contém informações importantes sobre segurança que, se seguidas corretamente, 
 podem garantir o bom funcionamento deste e, mais importante, garantir a sua segurança.
-Este manual do usuário também está disponível em nosso site; em caso de perda por favor
+
+Este manual do usuário também está disponível em nosso site; em caso de perda por favor 
 acesse-o através do endereço eletrônico: http://www.midea.com/br.
-Pensando no consumidor, este manual foi produzido com textos objetivos e claros, imagens
-e fotos que facilitam o entendimento dos procedimentos descritos e com observações que
+
+Pensando no consumidor, este manual foi produzido com textos objetivos e claros, imagens 
+e fotos que facilitam o entendimento dos procedimentos descritos e com observações que 
 requerem maior atenção para o melhor uso do aparelho.
-Algumas fi guras/fotos apresentadas neste manual podem ter sido feitas com equipamentos
-similares ou com a retirada de proteções/componentes para facilitar a representação,
+
+Algumas ﬁ guras/fotos apresentadas neste manual podem ter sido feitas com equipamentos 
+similares ou com a retirada de proteções/componentes para facilitar a representação, 
 entretanto o modelo real adquirido é que deverá ser considerado.
-Indica ao usuário detalhes sobre o funcionamento do aparelho, geralmente
-NOTA recomendações da melhor utilização deste.
-Indica ao usuário observações muito importantes sobre o funcionamento,
-IMPORTANTE evitando práticas inseguras, as quais podem resultar em danos a pessoas ou a
-propriedade, mas também a saúde do usuário se não realizados corretamente.
-Indica ao usuário procedimentos que requerem maior atenção. São
-PERIGO recomendações e advertências que devem ser consideradas para garantir
-a segurança e integridade física dos usuários ou a sua propriedade.
-4
-MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-1 - SEGURANÇA
-IMPORTANTE
-Para garantir o melhor desempenho de A adaptação e a preparação do
-seu produto, leia atentamente todas as local para a instalação do produto,
-recomendações a seguir. Não descarte o tais como: rede hidráulica, alvenaria,
-Manual do Usuário, guarde-o para eventuais carpintaria, preparação da rede elétrica
-consultas. Leia todas as instruções antes de do ambiente (tomada, disjuntor, bitola
-usar o aparelho. de cabos, eletroduto, etc), é de inteira
-responsabilidade do usuário/consumidor.
-1.1 - Medidas Importantes de
-Segurança
+
+Indica ao usuário detalhes sobre o funcionamento do aparelho, geralmente 
+recomendações da melhor utilização deste.
 NOTA
-Para reduzir os riscos de choques elétricos,
-• Este aparelho não deve ser instalado
-queimaduras, ferimentos pessoais ou danos ao
-embutido.
-equipamento, siga as recomendações básicas
-• Evite instalar o aparelho em um local
-de segurança ao usar este aparelho:
-onde exista a incidência de raios solares.
-• O aparelho não deve ser instalado atrás
+
+Indica ao usuário observações muito importantes sobre o funcionamento, 
+evitando práticas inseguras, as quais podem resultar em danos a pessoas ou a 
+propriedade, mas também a saúde do usuário se não realizados corretamente.
+
+IMPORTANTE
+
+Indica ao usuário procedimentos que requerem maior atenção. São 
+recomendações e advertências que devem ser consideradas para garantir 
+a segurança e integridade física dos usuários ou a sua propriedade.
 PERIGO
-de uma porta com fechadura, uma
-• Este aparelho não se destina à utilização porta de correr ou de uma porta com
-por pessoas (inclusive crianças) com dobradiças no lado oposto à secadora,
-capacidades físicas, sensoriais ou de um modo que a completa abertura
-mentais reduzidas, ou por pessoas com da porta da lava e seca seja impedida
-falta de experiência e conhecimento, a
-menos que tenham recebido instruções PERIGO
-referentes à utilização do aparelho ou • Recomenda-se que a instalação,
-estejam sob a supervisão de uma pessoa movimentação e manuseio da lava e
-responsável pela sua segurança. seca seja feita por duas pessoas.
-• Recomenda-se que as crianças sejam • A movimentação da lava e seca deve
-vigiadas para assegurar que elas não ser realizada SEMPRE pelas laterais do
-estejam brincando com o aparelho. produto. Não segure o produto pela
+
+4
+
+MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
+1 - SEGURANÇA
+
+IMPORTANTE
+
+Para garantir o melhor desempenho de 
+seu produto, leia atentamente todas as 
+recomendações a seguir. Não descarte o 
+Manual do Usuário, guarde-o para eventuais 
+consultas. Leia todas as instruções antes de 
+usar o aparelho.
+
+A adaptação e a preparação do 
+local para a instalação do produto, 
+tais como: rede hidráulica, alvenaria, 
+carpintaria, preparação da rede elétrica 
+do ambiente (tomada, disjuntor, bitola 
+de cabos, eletroduto, etc), é de inteira 
+responsabilidade do usuário/consumidor.
+
+1.1 - Medidas Importantes de 
+Segurança
+
+NOTA
+
+Para reduzir os riscos de choques elétricos, 
+queimaduras, ferimentos pessoais ou danos ao 
+equipamento, siga as recomendações básicas 
+de segurança ao usar este aparelho:
+
+• Este aparelho não deve ser instalado 
+embutido.
+• Evite instalar o aparelho em um local 
+onde exista a incidência de raios solares.
+• O aparelho não deve ser instalado atrás 
+de uma porta com fechadura, uma 
+porta de correr ou de uma porta com 
+dobradiças no lado oposto à secadora, 
+de um modo que a completa abertura 
+da porta da lava e seca seja impedida
+
+PERIGO
+
+• Este aparelho não se destina à utilização 
+por pessoas (inclusive crianças) com 
+capacidades físicas, sensoriais ou 
+mentais reduzidas, ou por pessoas com 
+falta de experiência e conhecimento, a 
+menos que tenham recebido instruções 
+referentes à utilização do aparelho ou 
+estejam sob a supervisão de uma pessoa 
+responsável pela sua segurança.
+
+PERIGO
+
+• Recomenda-se que a instalação, 
+movimentação e manuseio da lava e 
+seca seja feita por duas pessoas.
+• A movimentação da lava e seca deve 
+ser realizada SEMPRE pelas laterais do 
+produto. Não segure o produto pela 
 parte fontal ou traseira.
-• NUNCA coloque as mãos sob o aparelho,
-IMPORTANTE podem existir arestas que venham a
-• Instale-o apenas em conformidade com causar ferimentos.
-as instruções de instalação fornecidas
-neste Manual do Usuário. IMPORTANTE
-• Retire as proteções da embalagem com Para máquinas de lavar roupa com
-cuidado, para não danifi car o aparelho abertura de ventilação na base, assegure
-e seus componentes. que tapetes não obstruam as aberturas.
-• Mantenha o material da embalagem fora
-do alcance de crianças, após desembalar PERIGO
-o aparelho. Se o cordão de alimentação estiver
-• Verifi que se a tensão da rede elétrica danifi cado, ele deve ser substituído pelo
-no local de instalação é a mesma do fabricante, agente autorizado ou pessoa
-aparelho. qualifi cada, afi m de evitar riscos.
+• NUNCA coloque as mãos sob o aparelho, 
+podem existir arestas que venham a 
+causar ferimentos.
+
+• Recomenda-se que as crianças sejam 
+vigiadas para assegurar que elas não 
+estejam brincando com o aparelho.
+
+IMPORTANTE
+
+• Instale-o apenas em conformidade com 
+as instruções de instalação fornecidas 
+neste Manual do Usuário.
+
+IMPORTANTE
+
+• Retire as proteções da embalagem com 
+cuidado, para não daniﬁ car o aparelho 
+e seus componentes.
+
+Para máquinas de lavar roupa com 
+abertura de ventilação na base, assegure 
+que tapetes não obstruam as aberturas.
+
+• Mantenha o material da embalagem fora 
+do alcance de crianças, após desembalar 
+o aparelho.
+
+PERIGO
+
+Se o cordão de alimentação estiver 
+daniﬁ cado, ele deve ser substituído pelo 
+fabricante, agente autorizado ou pessoa 
+qualiﬁ cada, aﬁ m de evitar riscos.
+
+• Veriﬁ que se a tensão da rede elétrica 
+no local de instalação é a mesma do 
+aparelho.
+
 5
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-1.1 - Medidas Importantes de Segurança (continuação)
-NOTA PERIGO
-• Este aparelho é destinado para uso • Para se proteger contra choques
-doméstico ou similar, tais como: elétricos, não mergulhe o cabo de
-- Lavanderias de funcionários em lojas, alimentação elétrica nem o plugue em
-escritórios ou outros ambientes de água ou em qualquer outro líquido.
-trabalho; • Mantenha o cabo de alimentação longe
-- Para uso por clientes em hotéis, motéis de superfícies aquecidas.
-e outros ambientes de tipo residencial; • Fique atento para que o cabo elétrico
-- Ambientes do tipo pousada. não esteja dobrado ou pressionado por
-• Este aparelho não se destina a utilização algum móvel ou pelo próprio aparelho.
-em ambientes comerciais.
-• Não armazene nem use este aparelho em NOTA
-ambientes externos (ao ar livre).
-• Se a porta ou as vedações estiverem
-• Não utilize o produto para outros fi ns além
-danifi cadas, o aparelho não deverá ser
-dos previstos neste Manual do Usuário.
-utilizado. Entre em contato com o SAC
-Midea para solicitar atendimento.
-IMPORTANTE • NUNCA apoie ou coloque objetos sobre
-a porta do aparelho.
-• Observe que haja adequada ventilação,
-a fi m de evitar o refl uxo de gases caso • NUNCA deixe a porta da lava e seca
-hajam outros aparelhos no ambientes aberta para evitar acidentes.
-(por exemplo: aparelhos movidos por
-combustíveis - incluindo lareiras, etc).
-IMPORTANTE
-• Não instale o aparelho em locais muito
-úmidos, com altas temperaturas nem Ao desconectar o aparelho da tomada
-próximos de fontes de calor (fogão, NUNCA puxe pelo cabo de alimentação,
-forno, aquecedores, etc). faça sempre segurando pelo plugue.
-PERIGO PERIGO
-Evite manusear o aparelho e o cabo de • Em caso de mau funcionamento ou se
-observar fumaça desligue ou desconecte
-alimentação com os pés e as mãos úmidos
-o plugue da tomada e entre em contato
-e/ou pés descalços.
-com o SAC Midea para solicitar
-atendimento.
-IMPORTANTE • NÃO UTILIZE o aparelho após este
-ter apresentado defeito, ter sofrido
-• Cuidado: Não conecte em água quente. algum dano ou mesmo com o cabo
-• Deve-se utilizar a mangueira fornecida de alimentação danifi cado. Entre em
-com o aparelho. Conjuntos de mangueiras contato com o SAC Midea para solicitar
-antigas não devem ser utilizados. atendimento.
-6
-MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-PERIGO NOTA
-A secadora não deve ser utilizada se Amaciantes de tecidos, ou substâncias
-produtos químicos industriais foram similares, devem ser utilizados de acordo
-utilizados para limpeza. com as instruções do fabricante de
-amaciantes.
+
+1.1  - Medidas Importantes de Segurança (continuação)
+
 PERIGO
-• A lava e seca não deve ser utilizada se IMPORTANTE
-produtos químicos industriais foram A água residual que eventualmente fi car
-utilizados para limpeza. acumulada no interior do aparelho, ao
-• Itens manchados com substâncias tal final da operação, não é própria para
-como óleo de cozinha, acetona, álcool, consumo.
-gasolina, querosene, removedores NÃO beba esta água!
-de manchas, terebintina, ceras e
-removedores de cera devem ser
-lavados à mão, em água quente com
-IMPORTANTE
-uma quantidade extra de sabão antes
-de serem colocados na lava e seca. • Nunca force a abertura da porta quando
-• Remova todos os objetos dos bolsos o aparelho estiver em operação.
-como isqueiros ou fósforos. • Nunca interrompa o ciclo de secagem.
-Neste ciclo, as temperaturas internas
-são muito elevadas.
+
 NOTA
-• Não é recomendado colocar objetos
-Retire o plugue da tomada sempre que pesados ou recipientes com líquido
-for fazer limpeza ou manutenção. em cima do aparelho. Derrubar líquidos
-sobre a lava e seca poderá causar mau
-funcionamento ou choques elétricos.
+
+• Este aparelho é destinado para uso 
+doméstico ou similar, tais como:
+
+• Para se proteger contra choques 
+elétricos, não mergulhe o cabo de 
+alimentação elétrica nem o plugue em 
+água ou em qualquer outro líquido.
+
+- Lavanderias de funcionários em lojas, 
+escritórios ou outros ambientes de 
+trabalho;
+
+• Mantenha o cabo de alimentação longe 
+de superfícies aquecidas.
+
+- Para uso por clientes em hotéis, motéis 
+e outros ambientes de tipo residencial;
+
+• Fique atento para que o cabo elétrico 
+não esteja dobrado ou pressionado por 
+algum móvel ou pelo próprio aparelho.
+
+- Ambientes do tipo pousada.
+
+• Este aparelho não se destina a utilização 
+em ambientes comerciais.
+
+• Não armazene nem use este aparelho em 
+ambientes externos (ao ar livre).
+
+NOTA
+
+• Se a porta ou as vedações estiverem 
+daniﬁ cadas, o aparelho não deverá ser 
+utilizado. Entre em contato com o SAC 
+Midea para solicitar atendimento.
+
+• Não utilize o produto para outros ﬁ ns além 
+dos previstos neste Manual do Usuário.
+
+• NUNCA apoie ou coloque objetos sobre 
+a porta do aparelho.
+
 IMPORTANTE
-O filtro de fiapos deve ser limpo
-frequentemente. NOTA
-• Não é recomendável secar itens de lã
-IMPORTANTE na sua Lava e Seca Midea.
-• A parte fi nal do ciclo da secadora ocorre
-• Caso ocorra transbordamento interrompa sem calor para assegurar que os itens
-imediatamente o abastecimento de água esfriem de maneira que não sejam
-e desligue, com cuidado, o plugue da danifi cados.
-tomada. • Nunca interrompa o ciclo de secagem a
-• Se o problema persistir, entre em não ser que os itens sejam rapidamente
-contato com o SAC Midea para solicitar removidos e espalhados a fim de
-atendimento. dissipar o calor
+
+• Observe que haja adequada ventilação, 
+a ﬁ m de evitar o reﬂ uxo de gases caso 
+hajam outros aparelhos no ambientes 
+(por exemplo: aparelhos movidos por 
+combustíveis - incluindo lareiras, etc).
+• Não instale o aparelho em locais muito 
+úmidos, com altas temperaturas nem 
+próximos de fontes de calor (fogão, 
+forno, aquecedores, etc).
+
+• NUNCA deixe a porta da lava e seca 
+aberta para evitar acidentes.
+
+IMPORTANTE
+
+Ao desconectar o aparelho da tomada 
+NUNCA puxe pelo cabo de alimentação, 
+faça sempre segurando pelo plugue.
+
+PERIGO
+
+PERIGO
+
+• Em caso de mau funcionamento ou se 
+observar fumaça desligue ou desconecte 
+o plugue da tomada e entre em contato 
+com o SAC Midea para solicitar 
+atendimento.
+
+Evite manusear o aparelho e o cabo de 
+alimentação com os pés e as mãos úmidos 
+e/ou pés descalços.
+
+• NÃO UTILIZE o aparelho após este 
+ter apresentado defeito, ter sofrido 
+algum dano ou mesmo com o cabo 
+de alimentação daniﬁ cado. Entre em 
+contato com o SAC Midea para solicitar 
+atendimento.
+
+IMPORTANTE
+
+• Cuidado: Não conecte em água quente.
+• Deve-se utilizar a mangueira fornecida 
+com o aparelho. Conjuntos de mangueiras 
+antigas não devem ser utilizados.
+
+6
+
+MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
+PERIGO
+
+NOTA
+
+Amaciantes de tecidos, ou substâncias 
+similares, devem ser utilizados de acordo 
+com as instruções do fabricante de 
+amaciantes.
+
+A secadora não deve ser utilizada se 
+produtos químicos industriais foram 
+utilizados para limpeza.
+
+PERIGO
+
+IMPORTANTE
+• A lava e seca não deve ser utilizada se 
+produtos químicos industriais foram 
+utilizados para limpeza.
+
+A água residual que eventualmente ﬁ car 
+acumulada no interior do aparelho, ao 
+final da operação, não é própria para 
+consumo.
+
+• Itens manchados com substâncias tal 
+como óleo de cozinha, acetona, álcool, 
+gasolina, querosene, removedores 
+de manchas, terebintina, ceras e 
+removedores de cera devem ser 
+lavados à mão, em água quente com 
+uma quantidade extra de sabão antes 
+de serem colocados na lava e seca.
+
+NÃO beba esta água!
+
+IMPORTANTE
+
+• Nunca force a abertura da porta quando 
+o aparelho estiver em operação.
+
+• Remova todos os objetos dos bolsos 
+como isqueiros ou fósforos.
+
+• Nunca interrompa o ciclo de secagem. 
+Neste ciclo, as temperaturas internas 
+são muito elevadas.
+
+NOTA
+
+• Não é recomendado colocar objetos 
+pesados ou recipientes com líquido 
+em cima do aparelho. Derrubar líquidos 
+sobre a lava e seca poderá causar mau 
+funcionamento ou choques elétricos.
+
+Retire o plugue da tomada sempre que 
+for fazer limpeza ou manutenção.
+
+IMPORTANTE
+
+O filtro de fiapos deve ser limpo 
+frequentemente.
+
+NOTA
+
+• Não é recomendável secar itens de lã 
+na sua Lava e Seca Midea.
+• A parte ﬁ nal do ciclo da secadora ocorre 
+sem calor para assegurar que os itens 
+esfriem de maneira que não sejam 
+daniﬁ cados.
+• Nunca interrompa o ciclo de secagem a 
+não ser que os itens sejam rapidamente 
+removidos e espalhados a fim de 
+dissipar o calor
+
+IMPORTANTE
+
+• Caso ocorra transbordamento interrompa 
+imediatamente o abastecimento de água 
+e desligue, com cuidado, o plugue da 
+tomada.
+
+• Se o problema persistir, entre em 
+contato com o SAC Midea para solicitar 
+atendimento.
+
 7
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-1.1 - Medidas Importantes de Segurança (continuação)
-PERIGO PERIGO
-O ar de escape não deve ser Ao descartar o aparelho, a porta deve
-descarregado juntamente com gases ser retirada. Lavadoras que estejam fora
-de eletrodomésticos a gás ou mesmo de operação podem apresentar perigo
-com aparelhos que funcionam com outros iminente, especialmente a crianças, pois,
-combustíveis ao brincarem com o produto, podem
-fi car presas em seu interior, com risco
-grave de falta de ar e até mesmo de um
-IMPORTANTE acidente fatal.
-Não seque itens não lavados na secadora.
-NOTA
-PERIGO • Para não perder a garantia e para evitar
-problemas futuros este aparelho deve
-• NÃO utilize extensões, conectores do receber manutenção apenas de técnicos
-tipo “T”, benjamins ou adaptadores. Use
-de serviço de empresas credenciadas.
-sempre uma tomada exclusiva para o
-Contate o SAC Midea mais próximo para
-aparelho.
-realizar um exame, reparo ou ajuste.
-• Não utilize estabilizador, transformador,
-ou “No-break”. • A Nota Fiscal e o Certifi cado de Garantia
-são documentos importantes e devem
-• A lava e seca não é destinada a ser
-operada por meio de um temporizador ser guardados para efeito de garantia.
-externo ou sistema de controle remoto
-separado.
+
+1.1  - Medidas Importantes de Segurança (continuação)
+
+PERIGO
+
+PERIGO
+
+O ar de escape não deve ser 
+descarregado juntamente com gases 
+de eletrodomésticos a gás ou mesmo 
+com aparelhos que funcionam com outros 
+combustíveis
+
+Ao descartar o aparelho, a porta deve 
+ser retirada. Lavadoras que estejam fora 
+de operação podem apresentar perigo 
+iminente, especialmente a crianças, pois, 
+ao brincarem com o produto, podem 
+ﬁ car presas em seu interior, com risco 
+grave de falta de ar e até mesmo de um 
+acidente fatal.
+
 IMPORTANTE
-O uso de acessórios não recomendados
-pela Midea podem resultar em danos a
+
+Não seque itens não lavados na secadora.
+
+NOTA
+
+• Para não perder a garantia e para evitar 
+problemas futuros este aparelho deve 
+receber manutenção apenas de técnicos 
+de serviço de empresas credenciadas. 
+Contate o SAC Midea mais próximo para 
+realizar um exame, reparo ou ajuste.
+
+PERIGO
+
+• NÃO utilize extensões, conectores do 
+tipo “T”, benjamins ou adaptadores. Use 
+sempre uma tomada exclusiva para o 
+aparelho.
+
+• Não utilize estabilizador, transformador, 
+ou “No-break”.
+
+• A Nota Fiscal e o Certiﬁ cado de Garantia 
+são documentos importantes e devem 
+ser guardados para efeito de garantia.
+
+• A lava e seca não é destinada a ser 
+operada por meio de um temporizador 
+externo ou sistema de controle remoto 
+separado.
+
+IMPORTANTE
+
+O uso de acessórios não recomendados 
+pela Midea podem resultar em danos a 
 pessoas ou a propriedade.
+
 8
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 2 - DESCRIÇÃO DO APARELHO
-Mangueira de Painel de controle
-abastecimento
-de água Botão seletor
-Cabo de alimentação
+
+Mangueira de 
+abastecimento 
+de água
+
+Painel de controle
+
+Botão seletor
+
+Cabo de alimentação 
 (traseiro)
+
 Dispenser
-Cesto de roupas
+
+Cesto de roupas 
 (interno)
+
 Vedação da porta
-Porta Tampa do fi ltro
-Mangueira de
+
+Porta
+
+Tampa do ﬁ ltro
+
+Mangueira de 
 drenagem de água
-Filtro da
-bomba de
-Pés ajustáveis (4) drenagem
-Mangueira de dreno do fi ltro
+
+Filtro da 
+bomba de 
+drenagem
+Pés ajustáveis (4)
+
+Mangueira de dreno do ﬁ ltro
+
 2.1 - Acessórios e Componentes
-1 2 3 4 5
-1. Tampões de fechamento (4 un.) 4. Manual (1 un.)
-2. Mangueira de entrada de água (1 un.) 5. Painel de proteção antirrato (1 un.)
-3. Suporte para mangueira de drenagem
+
+1
+2
+3
+4
+5
+
+1. 
+Tampões de fechamento (4 un.)
+
+4. Manual (1 un.)
+
+2. Mangueira de entrada de água (1 un.)
+
+5. Painel de proteção antirrato (1 un.)
+
+3. Suporte para mangueira de drenagem 
 (saída de água) (1 un.)
+
 9
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 2.2 - Características Técnicas Gerais
+
+MODELOS*
+MFM01D110WB/WKBR04
+MFM01D110WB/TKBR04
+MFM01D110WB/WKBR05
+MFM01D110WB/TKBR05
+
+Tensão (V~)
+127
+220
+
+Frequência (Hz)
+60
+
+Potência (W)
+1250
+1800
+
+Capacidade de lavagem (kg)**
+11,0
+
+Capacidade de secagem (kg)**
+7
+
+Mínima pressão de abastecimento
+de água (kPa) 
+50
+
+Máxima pressão de abastecimento
+de água (kPa) 
+1000
+
+Dimensões externas (mm) - (LxAxP)
+595 x 850 x 629
+
+Massa (peso líquido) do produto (kg)
+68
+
+Padrão de plugue
+20A
+20A
+
+* WK: branco / TK: titânio  
+  
+ ** Capacidades máximas de material têxtil seco.
+
 NOTA
+
 WI-FI
+
 Este produto contém a placa MM3SB3350N código de homologação
 Anatel 15655-20-05648.
+
 2.3 - Dimensões dos Aparelhos e Instalação
-1094 mm
+
 595 mm
-629 mm
-10
-MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-mm
-058
-MFM01D110WB/WKBR04 MFM01D110WB/WKBR05
-MODELOS*
-MFM01D110WB/TKBR04 MFM01D110WB/TKBR05
-Tensão (V~) 127 220
-Frequência (Hz) 60
-Potência (W) 1250 1800
-Capacidade de lavagem (kg)** 11,0
-Capacidade de secagem (kg)** 7
-Mínima pressão de abastecimento
-50
-de água (kPa)
-Máxima pressão de abastecimento
-1000
-de água (kPa)
-Dimensões externas (mm) - (LxAxP) 595 x 850 x 629
-Massa (peso líquido) do produto (kg) 68
-Padrão de plugue 20A 20A
-* WK: branco / TK: titânio ** Capacidades máximas de material têxtil seco.
+1094 mm
+
 465 mm
+
+629 mm
+
+850 mm
+
+10
+
+MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 3 - INSTALAÇÃO
 3.1 - Recomendações Gerais
+
 NOTA
-• O aparelho deve ser transportado na posição vertical. Veja as recomendações na
+
+• O aparelho deve ser transportado na posição vertical. Veja as recomendações na 
 embalagem (caixa) de transporte.
-• Antes da instalação do aparelho remova completamente a embalagem, inclusive a base
+• Antes da instalação do aparelho remova completamente a embalagem, inclusive a base 
 inferior e protetores plásticos. É recomendável que a instalação seja feita por duas pessoas.
-• Confi ra se todos os acessórios/componentes foram recebidos e em perfeito estado.
-• Não exerça nenhuma pressão sobre qualquer componente e não fi que de pé sobre o
+• Conﬁ ra se todos os acessórios/componentes foram recebidos e em perfeito estado.
+• Não exerça nenhuma pressão sobre qualquer componente e não ﬁ que de pé sobre o 
 aparelho. Deformações e danos podem prejudicar o funcionamento.
 • Tenha cuidado ao manusear o aparelho.
+
 PERIGO
-• Rasgue todos os sacos plásticos e descarte-os adequadamente, estes materiais podem
+
+• Rasgue todos os sacos plásticos e descarte-os adequadamente, estes materiais podem 
 representar risco potencial para crianças e animais.
-• Risco de choque elétrico! Não conecte o plugue do aparelho na tomada antes de
-fi nalizar a instalação.
+• Risco de choque elétrico! Não conecte o plugue do aparelho na tomada antes de 
+ﬁ nalizar a instalação.
+
 3.2 - Local de Instalação
+
 NOTA
-• Instale o aparelho em um local seco e afastado da incidência direta de luz solar. A luz
-do sol poderá danifi car a pintura.
-• No local de instalação, é recomendável que a lava e seca fi que livre para completa
-abertura da porta e fi ltro.
-A. A lava e seca deve ser instalada em um local Cabo de alimentação elétrica 1
-plano, nivelado e estável que suporte o peso do
-aparelho totalmente carregado e que permita
-uma correta circulação de ar e drenagem de água
-(verifi que o item 3.8 - Instalação da Mangueira de
-Drenagem) e próxima de uma tomada elétrica Conexão de
-a abastecimento
-adequada. de água
-B. Utilize o comprimento da mangueira de
-abastecimento de água, a mangueira de
-drenagem e do cabo de alimentação para fazer Presilha da
-o melhor ajuste na instalação da sua lava e seca. mangueira
-de drenagem
-IMPORTANTE
-A presilha (“a” - fi gura 1). NUNCA deverá ser
-retirada para reposicionamento da mangueira
-de drenagem do aparelho.
-Mangueira de drenagem
-11
-MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-3.3 - Painel de Proteção Antirratos
-Instruções de instalação do painel de proteção
-Frente da lava e seca 1
-O painel de proteção antirratos, insetos e
-animais de pequeno porte deve ser instalado
-antes da retirada dos parafusos de transporte,
-sendo recomendável que a instalação seja
-feita por pelo menos duas pessoas.
-Siga o passo a passo abaixo para instalar o
-painel:
-1. Posicionado em frente ao aparelho,
-Lava e seca
-incline-o para trás até o piso deixando inclinada para
-um ângulo adequado para a instalação. trás e vista por
-As peças de proteção da embalagem (em baixo
-eps) podem ser utilizadas para assentar o
-aparelho no piso. Tenha cuidado para não
-se ferir ou danifi car o aparelho quando
-incliná-lo (fi g. 1). 1 2
-2. Remova as fi tas adesivas coladas nas
-laterais da parte traseira do painel de 2
-proteção (fi g. 2). 3
-3. Alinhe o painel na parte inferior do
-aparelho de baixo para cima (da parte de
-trás para a parte da frente) e certifi que-se 4
-que a marca “F” está virada para a frente
-do aparelho (fi g. 3). Frente 3
-4. Cole fi rmemente o painel de proteção
-no aparelho (fi g. 4).
-5. Após fi nalizar o procedimento levante o
-aparelho com cuidado recolocando-o em
-4
-sua posição correta de operação.
-3 2
+
+• Instale o aparelho em um local seco e afastado da incidência direta de luz solar. A luz 
+do sol poderá daniﬁ car a pintura.
+• No local de instalação, é recomendável que a lava e seca ﬁ que livre para completa 
+abertura da porta e ﬁ ltro.
+
+A. A lava e seca deve ser instalada em um local 
+plano, nivelado e estável que suporte o peso do 
+aparelho totalmente carregado e que permita 
+uma correta circulação de ar e drenagem de água 
+(veriﬁ que o item 3.8 - Instalação da Mangueira de 
+Drenagem) e próxima de uma tomada elétrica 
+adequada.
+B. Utilize o comprimento da mangueira de 
+abastecimento de água, a mangueira de 
+drenagem e do cabo de alimentação para fazer 
+o melhor ajuste na instalação da sua lava e seca.
+
+Cabo de alimentação elétrica
+
 1
-Painel visto de frente
-4
-Detalhe com painel instalado
-12
-MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-3.4 - Parafusos de Transporte
-2
-Os parafusos de transporte (4 un.) devem
-ser removidos da parte traseira antes de
-utilizar o aparelho.
-Siga os seguintes passos para removê-los:
-1. Solte os parafusos com a chave
-apropriada (chave de boca n°13 - não
-acompanha o produto) e em seguida
-remova-os puxando para fora.
-2. Tampe os buracos com os quatro
-tampões de fechamento.
-3. Guarde os parafusos para uso futuro,
-caso haja necessidade de transportar
-o aparelho.
-IMPORTANTE
-• Ligar a sua lava e seca sem a
-remoção completa dos parafusos Tampões de
-de transporte pode causar graves fechamento Parafusos de transporte
-danos nos componentes do seu
-equipamento, que impedirão o
-correto funcionamento do mesmo.
-• Transportar a sua lava e seca sem os
-parafusos de transporte podem causar
-graves danos nos componentes.
-3.5 - Espaçamento e Nivelamento
-3
-A A
-A A A B
-A B
-Distâncias Mínima Recomendáveis (cm) 2 5
-13
-MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-3.6 - Nivelamento e Ajuste dos Pés Reguláveis
-NOTA Nível de 4
-bolha
-Todos os quatro pés são ajustáveis.
-1. Após posicionada no local de instalação,
-utilize uma ferramenta de nível de bolha
-(não acompanha o produto) para verifi car
-a estabilidade e nivelamento da lava e seca.
-2. Utilize a chave de boca (não inclusa no
-produto) para soltar as porcas de travamento
-dos pés niveladores.
-3. Gire os pés niveladores para fazer o ajuste
-do nivelamento.
-4. Aperte as porcas de travamento dos
-parafusos dos pés niveladores.
-5. Caso seja necessário novos ajustes, repita P fi o x r a c ç a ã d o e a
-os procedimentos descritos acima.
-Soltar a Soltar a Apertar a
-porca e girar porca e girar porca com
-o pé para o pé para fi rmeza para
-elevar o baixar o manter o
-aparelho aparelho nivelamento
-IMPORTANTE
-Em caso de desnivelamento o produto poderá apresentar ruído, vibração excessiva e até
-mudar de posição durante o funcionamento.
-3.7 - Mangueira de Abastecimento de Água
-IMPORTANTE
-A mangueira de entrada de água possui, em uma de suas extremidades, um fi ltro
-interno, esta extremidade DEVE SEMPRE ser conectada à torneira de água. NUNCA
-utilizar o aparelho sem o fi ltro na mangueira. Esses cuidados contribuem para o correto
-funcionamento do seu produto e vida útil dos componentes.
-A mangueira de entrada de água deverá ser instalada da seguinte forma:
-1. Conecte a ponta com conexão 90° da mangueira na conexão de entrada de água (parte
-traseira do aparelho), apertando-a manualmente (fi g. 5, na próxima página).
-2. Conecte a outra ponta com conexão reta da mangueira (com o fi ltro interno) em uma
-torneira próxima, apertando-a manualmente (fi g. 6, na próxima página).
-14
-MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-3.7 - Mangueira de Abastecimento de Água (continuação)
-Conexão de entrada 5 6
-de água (com fi ltro)
-Mangueira de
-abastecimento Mangueira de
-de água abastecimento de água
-(lado sem fi ltro) (lado com fi ltro)
-Utilize a conexão 90°
-para ligar no aparelho
-e a conexão reta para
-Vista traseira do aparelho ligar na fonte de água.
-NOTA
-• As conexões da mangueira de entrada de água possuem anel para vedação por contato,
-por este motivo não é recomendado o uso de qualquer ferramenta para aperto. Em
-uma instalação ideal, não necessita aplicação de veda roscas.
-• Para evitar vazamentos garanta o correto alinhamento entre a conexão da mangueira
-e a torneira/conexão de entrada de água (parte traseira do aparelho) durante a
-montagem e aperto.
-Fornecimento de água
-NOTA
-• Antes de fazer a instalação da mangueira, é recomendável abrir a torneira para eliminar
-impurezas da tubulação, que podem danifi car e prejudicar o funcionamento do aparelho.
-Se a tubulação de água for nova ou não tiver sido usada por longos períodos, deixe a
-água escorrer e veja se esta sai transparente e sem impurezas. Se esta precaução não
-for tomada, a entrada de água pode fi car bloqueada e danifi car o aparelho.
-• Mantenha a torneira facilmente acessível.
-• Certifi que-se de que a mangueira de entrada de água não esteja torcida ou esmagada.
-• Antes de utilizar a lava e seca é recomendável que se verifi que se há vazamentos nas
-conexões e mangueiras.
-• Se a lava e seca não for ser utilizada, é recomendado que feche a torneira do fornecimento
-de água.
-IMPORTANTE
-Para o correto funcionamento da lava e seca, é recomendável pressão mínima de água de
-50kPa (5,1 mca). Se a pressão for menor que esta, a lava e seca pode não atingir o nível
-adequado de água e ter difi culdade para diluição do sabão e transporte do amaciante,
-prejudicando a lavagem. Nestas condições pode apresentar o alarme E10 no painel.
-15
-MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-3.8 - Instalação da Mangueira de Drenagem (Mangueira de Saída de Água)
-NOTA 1
-A mangueira de drenagem já vem instalada
-no aparelho, não sendo necessária
-nenhuma ligação na lava e seca. Suporte para
+
+Conexão de 
+abastecimento
+de água
+a
+
+Presilha da 
 mangueira
 de drenagem
-INSTALAÇÃO EM UM TANQUE OU TUBO
+
+IMPORTANTE
+
+A presilha (“a” - ﬁ gura 1). NUNCA deverá ser 
+retirada para reposicionamento da mangueira 
+de drenagem do aparelho.
+
+Mangueira de drenagem
+
+11
+MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
+3.3 - Painel de Proteção Antirratos
+
+Instruções de instalação do painel de proteção
+
+Frente da lava e seca
+
+1
+
+O painel de proteção antirratos, insetos e 
+animais de pequeno porte deve ser instalado 
+antes da retirada dos parafusos de transporte, 
+sendo recomendável que a instalação seja 
+feita por pelo menos duas pessoas.
+
+Siga o passo a passo abaixo para instalar o 
+painel:
+
+1. 
+Posicionado em frente ao aparelho, 
+incline-o para trás até o piso deixando 
+um ângulo adequado para a instalação. 
+As peças de proteção da embalagem (em 
+eps) podem ser utilizadas para assentar o 
+aparelho no piso. Tenha cuidado para não 
+se ferir ou daniﬁ car o aparelho quando 
+incliná-lo (ﬁ g. 1).
+
+Lava e seca 
+inclinada para 
+trás e vista por 
+baixo
+
+2
+
+1
+
+2. 
+Remova as ﬁ tas adesivas coladas nas 
+laterais da parte traseira do painel de 
+proteção (ﬁ g. 2).
+
+2
+
+3
+
+3. 
+Alinhe o painel na parte inferior do 
+aparelho de baixo para cima (da parte de 
+trás para a parte da frente) e certiﬁ que-se 
+que a marca “F” está virada para a frente 
+do aparelho (ﬁ g. 3).
+
+4
+
+Frente
+
+3
+
+4. 
+Cole ﬁ rmemente o painel de proteção 
+no aparelho (ﬁ g. 4).
+
+5. 
+Após ﬁ nalizar o procedimento levante o 
+aparelho com cuidado recolocando-o em 
+sua posição correta de operação.
+
+4
+
+2
+3
+
+1
+
+Painel visto de frente
+
+4
+
+Detalhe com painel instalado
+
+12
+
+MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
+3.4 - Parafusos de Transporte
+
+2
+
+Os parafusos de transporte (4 un.) devem 
+ser removidos da parte traseira antes de 
+utilizar o aparelho.
+
+Siga os seguintes passos para removê-los:
+
+1. Solte os parafusos com a chave 
+apropriada (chave de boca n°13 - não 
+acompanha o produto) e em seguida 
+remova-os puxando para fora.
+
+2. Tampe os buracos com os quatro 
+tampões de fechamento.
+
+3. Guarde os parafusos para uso futuro, 
+caso haja necessidade de transportar 
+o aparelho.
+
+IMPORTANTE
+
+• Ligar a sua lava e seca sem a 
+remoção completa dos parafusos 
+de transporte pode causar graves 
+danos nos componentes do seu 
+equipamento, que impedirão o 
+correto funcionamento do mesmo.
+
+Tampões de
+fechamento
+Parafusos de transporte
+
+• Transportar a sua lava e seca sem os 
+parafusos de transporte podem causar 
+graves danos nos componentes.
+
+3.5 - Espaçamento e Nivelamento
+
+3
+
+A
+
+A
+
+A
+A
+A
+
+B
+
+A
+B
+
+Distâncias Mínima Recomendáveis (cm)
+2
+5
+
+13
+MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
+3.6 - Nivelamento e Ajuste dos Pés Reguláveis
+
+NOTA
+
+Nível de
+bolha
+
+4
+
+Todos os quatro pés são ajustáveis.
+
+1. 
+Após posicionada no local de instalação, 
+utilize uma ferramenta de nível de bolha 
+(não acompanha o produto) para veriﬁ car 
+a estabilidade e nivelamento da lava e seca.
+
+2. Utilize a chave de boca (não inclusa no 
+produto) para soltar as porcas de travamento 
+dos pés niveladores.
+
+3. Gire os pés niveladores para fazer o ajuste 
+do nivelamento.
+
+4. Aperte as porcas de travamento dos 
+parafusos dos pés niveladores.
+
+Porca de 
+ﬁ xação
+
+a
+
+5. Caso seja necessário novos ajustes, repita 
+os procedimentos descritos acima.
+
+Soltar a 
+porca e girar 
+o pé para 
+elevar o 
+aparelho
+
+Soltar a 
+porca e girar 
+o pé para 
+baixar o 
+aparelho
+
+Apertar a 
+porca com 
+ﬁ rmeza para 
+manter o 
+nivelamento
+
+IMPORTANTE
+
+Em caso de desnivelamento o produto poderá apresentar ruído, vibração excessiva e até 
+mudar de posição durante o funcionamento.
+
+3.7 - Mangueira de Abastecimento de Água
+
+IMPORTANTE
+
+A mangueira de entrada de água possui, em uma de suas extremidades, um ﬁ ltro 
+interno, esta extremidade DEVE SEMPRE ser conectada à torneira de água. NUNCA 
+utilizar o aparelho sem o ﬁ ltro na mangueira. Esses cuidados contribuem para o correto 
+funcionamento do seu produto e vida útil dos componentes.
+
+A mangueira de entrada de água deverá ser instalada da seguinte forma:
+
+1. 
+Conecte a ponta com conexão 90° da mangueira na conexão de entrada de água (parte 
+traseira do aparelho), apertando-a manualmente (ﬁ g. 5, na próxima página).
+
+2. Conecte a outra ponta com conexão reta da mangueira (com o ﬁ ltro interno) em uma 
+torneira próxima, apertando-a manualmente (ﬁ g. 6, na próxima página).
+
+14
+
+MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
+3.7 - Mangueira de Abastecimento de Água (continuação)
+
+Conexão de entrada
+de água (com ﬁ ltro)
+
+5
+6
+
+Mangueira de 
+abastecimento
+de água
+(lado sem ﬁ ltro)
+
+Mangueira de 
+abastecimento de água
+(lado com ﬁ ltro)
+
+Utilize a conexão 90° 
+para ligar no aparelho 
+e a conexão reta para 
+ligar na fonte de água.
+
+Vista traseira do aparelho
+
+NOTA
+
+• As conexões da mangueira de entrada de água possuem anel para vedação por contato, 
+por este motivo não é recomendado o uso de qualquer ferramenta para aperto. Em 
+uma instalação ideal, não necessita aplicação de veda roscas.
+• Para evitar vazamentos garanta o correto alinhamento entre a conexão da mangueira 
+e a torneira/conexão de entrada de água (parte traseira do aparelho) durante a 
+montagem e aperto.
+
+Fornecimento de água
+
+NOTA
+
+• Antes de fazer a instalação da mangueira, é recomendável abrir a torneira para eliminar 
+impurezas da tubulação, que podem daniﬁ car e prejudicar o funcionamento do aparelho. 
+Se a tubulação de água for nova ou não tiver sido usada por longos períodos, deixe a 
+água escorrer e veja se esta sai transparente e sem impurezas. Se esta precaução não 
+for tomada, a entrada de água pode ﬁ car bloqueada e daniﬁ car o aparelho.
+• Mantenha a torneira facilmente acessível.
+• Certiﬁ que-se de que a mangueira de entrada de água não esteja torcida ou esmagada.
+• Antes de utilizar a lava e seca é recomendável que se veriﬁ que se há vazamentos nas 
+conexões e mangueiras.
+• Se a lava e seca não for ser utilizada, é recomendado que feche a torneira do fornecimento 
+de água.
+
+IMPORTANTE
+
+Para o correto funcionamento da lava e seca, é recomendável pressão mínima de água de 
+50kPa (5,1 mca). Se a pressão for menor que esta, a lava e seca pode não atingir o nível 
+adequado de água e ter diﬁ culdade para diluição do sabão e transporte do amaciante, 
+prejudicando a lavagem. Nestas condições pode apresentar o alarme E10 no painel.
+
+15
+MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
+3.8 - Instalação da Mangueira de Drenagem (Mangueira de Saída de Água)
+
+NOTA
+
+1
+
+A mangueira de drenagem já vem instalada 
+no aparelho, não sendo necessária 
+nenhuma ligação na lava e seca.
+
+Suporte para
+mangueira 
+de drenagem
+
+INSTALAÇÃO EM UM TANQUE OU TUBO 
 DE DRENAGEM
-1. Coloque-a na borda de um tanque de
-lavagem de roupas, aproveitando a saída
-de água deste (fi g. 1). Suporte para 2
-2. Utilize o suporte para mangueira de mangueira de drenagem
-drenagem (em formato de “U”), fornecido
-com a lava e seca (fi g. 2).
-3. A fi xação deve ser feita com uma corrente
-(não fornecido) ou similar (fi g. 2 para tanque
-e fi g.3 para tubo de drenagem) para evitar
+
+1. 
+Coloque-a na borda de um tanque de 
+lavagem de roupas, aproveitando a saída 
+de água deste (ﬁ g. 1).
+2. Utilize o suporte para mangueira de 
+drenagem (em formato de “U”), fornecido 
+com a lava e seca (ﬁ g. 2).
+3. A ﬁ xação deve ser feita com uma corrente 
+(não fornecido) ou similar (ﬁ g. 2 para tanque 
+e ﬁ g.3 para tubo de drenagem) para evitar 
 grandes deslocamentos laterais.
-INSTALAÇÃO EM UM SIFÃO/ADAPTADOR Tanque de lavagem 3
-PARA DRENAGEM Tanqudee d reo lauvpaagsem
-de roupas Máx.
-1. Conecte a mangueira de drenagem na 100 cm
-conexão do sifão/adaptador para drenagem
-até que fi que fi rmemente encaixada (fi g. 4).
+
+Suporte para
+mangueira de drenagem
+2
+
+3
+Tanque de lavagem
+de roupas
+
+INSTALAÇÃO EM UM SIFÃO/ADAPTADOR 
+PARA DRENAGEM
+
+Tanque de lavagem
+
+de roupas
+
 Máx.
-NOTA 100 cm Mín.
+100 cm
+
+1. 
+Conecte a mangueira de drenagem na 
+conexão do sifão/adaptador para drenagem 
+até que ﬁ que ﬁ rmemente encaixada (ﬁ g. 4).
+
+Máx.
+100 cm
+
+NOTA
+
+Mín.
 60 cm
-Observe as alturas mínima e máxima para
-posicionamento da mangueira (conforme
-fi guras ao lado). Verifi que se a mangueira Mín.
-foi corretamente fi xada em qualquer uma 60 cm TTuubbo od ede
+
+Observe as alturas mínima e máxima para 
+posicionamento da mangueira (conforme 
+ﬁ guras ao lado). Veriﬁ que se a mangueira 
+foi corretamente ﬁ xada em qualquer uma 
 das montagens para evitar vazamentos.
-ddrreennagaegmem
-IMPORTANTE 4
-Para prevenir o efeito sifão a mangueira
-de drenagem NUNCA deverá ser colocada
-abaixo da superfície da água. Siga
-as recomendações Midea para evitar
+
+Mín.
+60 cm
+
+Tubo de
+
+Tubo de 
+drenagem
+
+drenagem
+
+4
+
+IMPORTANTE
+
+Para prevenir o efeito sifão a mangueira 
+de drenagem NUNCA deverá ser colocada 
+abaixo da superfície da água. Siga 
+as recomendações Midea para evitar 
 vazamentos.
+
 Máx.
 100 cm
 Mín. 60 cm
+
 16
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 3.9 - Instruções para Instalação Elétrica
-IMPORTANTE Este aparelho deve ser instalado em um ponto
-• Não utilize adaptadores, extensões, de alimentação de acordo com a norma NBR
-benjamins ou conectores “T”. 5410 (instalações elétricas de baixa tensão).
-• Este aparelho NÃO é bivolt. Verifi que Esta instalação deve conter TODOS os
-atentamente a tensão do aparelho dispositivos de proteção previstos em
-antes de ligá-lo na tomada. norma, tais como: Aterramento adequado,
-disjuntos e dispositivo Diferencial Residual
-• A tomada elétrica, por motivo de
+
+IMPORTANTE
+Este aparelho deve ser instalado em um ponto 
+de alimentação de acordo com a norma NBR 
+5410 (instalações elétricas de baixa tensão).
+
+• Não utilize adaptadores, extensões, 
+benjamins ou conectores “T”.
+
+Esta instalação deve conter TODOS os 
+dispositivos de proteção previstos em 
+norma, tais como: Aterramento adequado, 
+disjuntos e dispositivo Diferencial Residual 
 (DR) corretamente dimensionados.
-segurança, deve estar localizada em um
-local de fácil acesso após a instalação Os dados elétricos para dimensionamento e
-do aparelho. instalação do aparelho estão disponíveis na
-• Conecte este aparelho a uma tomada tabela de Características Técnicas Gerais,
-exclusiva. subitem 2.2 deste manual.
-• Este aparelho é equipado com cabo de
-alimentação e plugue de aterramento e
-deverá ser ligado em uma rede elétrica
-com aterramento de acordo com a
-norma NBR 5410 (instalações elétricas
+
+• Este aparelho NÃO é bivolt. Veriﬁ que 
+atentamente a tensão do aparelho 
+antes de ligá-lo na tomada.
+
+• A tomada elétrica, por motivo de 
+segurança, deve estar localizada em um 
+local de fácil acesso após a instalação 
+do aparelho.
+
+Os dados elétricos para dimensionamento e 
+instalação do aparelho estão disponíveis na 
+tabela de Características Técnicas Gerais, 
+subitem 2.2 deste manual.
+
+• Conecte este aparelho a uma tomada 
+exclusiva.
+
+• Este aparelho é equipado com cabo de 
+alimentação e plugue de aterramento e 
+deverá ser ligado em uma rede elétrica 
+com aterramento de acordo com a 
+norma NBR 5410 (instalações elétricas 
 de baixa tensão).
-• O aterramento garante a proteção
-do usuário contra choques elétricos
-através das partes metálicas do
+
+• O aterramento garante a proteção 
+do usuário contra choques elétricos 
+através das partes metálicas do 
 aparelho.
+
 PERIGO
-• Por medidas de segurança este aparelho
-deve receber manutenção apenas
-de técnicos de serviço de empresas
+
+• Por medidas de segurança este aparelho 
+deve receber manutenção apenas 
+de técnicos de serviço de empresas 
 credenciadas.
-• A instalação elétrica deverá SEMPRE
-ser realizada por um profissional
-habilitado e qualifi cado.
-• Não seguir as recomendações Midea
-contidas nesse Manual pode causar
+• A instalação elétrica deverá SEMPRE 
+ser realizada por um profissional 
+habilitado e qualiﬁ cado.
+• Não seguir as recomendações Midea 
+contidas nesse Manual pode causar 
 incêndios, choque elétrico, curto-
 circuitos e risco de vida.
+
 17
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 4 - VERIFICAÇÃO E CUIDADOS COM AS SUAS ROUPAS
-A Midea tem a preocupação com o seu conforto, qualidade e a preservação de suas roupas. A
+
+A Midea tem a preocupação com o seu conforto, qualidade e a preservação de suas roupas. A 
 seguir algumas recomendações para melhor uso de sua lava e seca e preservação de suas roupas.
-Verifi que antes da primeira lavagem de Roupas que não se recomenda lavar
-roupas em máquinas
-• Para evitar que roupas de diferentes cores Alguns tipos de roupas/acessórios poderão
-sejam manchadas, recomendamos uma encolher ou fi car deformados se imersos
-separação das peças por cores. em água:
-• Alguns tecidos soltam a sua cor podendo • Gravatas, coletes e lenços de seda.
-danifi car outras roupas se lavadas juntas.
-• Roupas estampadas, de estilo enrugado
-Recomendamos fazer um teste molhando
-a roupa individualmente e torcendo-a para ou roupas de resina sintética.
-verifi car se esta solta tinta e a necessidade • Casacos de pele ou decoradas com
-de lavar separadamente ou a mão. peles.
-• Roupas sensíveis à temperatura devem ser • Roupas com muita decoração, vestidos
-lavadas conforme indicado nas etiquetas. longos de festa e trajes tradicionais com
-Caso contrário, pode causar alteração de muitos detalhes e cores, são produtos
-cor ou mesmo deformação do tecido. que descolorem facilmente.
+
+Veriﬁ que antes da primeira lavagem de 
+roupas
+
+Roupas que não se recomenda lavar 
+em máquinas
+
+• 
+Para evitar que roupas de diferentes cores 
+sejam manchadas, recomendamos uma 
+separação das peças por cores.
+• 
+Alguns tecidos soltam a sua cor podendo 
+daniﬁ car outras roupas se lavadas juntas. 
+Recomendamos fazer um teste molhando 
+a roupa individualmente e torcendo-a para 
+veriﬁ car se esta solta tinta e a necessidade 
+de lavar separadamente ou a mão.
+• 
+Roupas sensíveis à temperatura devem ser 
+lavadas conforme indicado nas etiquetas. 
+Caso contrário, pode causar alteração de 
+cor ou mesmo deformação do tecido.
+
+Alguns tipos de roupas/acessórios poderão 
+encolher ou ﬁ car deformados se imersos 
+em água:
+
+• 
+Gravatas, coletes e lenços de seda.
+• 
+Roupas estampadas, de estilo enrugado 
+ou roupas de resina sintética. 
+• 
+Casacos de pele ou decoradas com 
+peles.
+• 
+Roupas com muita decoração, vestidos 
+longos de festa e trajes tradicionais com 
+muitos detalhes e cores, são produtos 
+que descolorem facilmente.
+
 NOTA
-Recomendamos que não mantenha roupas no aparelho, após a lavagem, por um longo
+
+Recomendamos que não mantenha roupas no aparelho, após a lavagem, por um longo 
 período de tempo, pois poderá causar bolor e até manchas.
+
 IMPORTANTE
-NUNCA ultrapasse a capacidade máxima do aparelho. O excesso de carga poderá alterar
-os efeitos de lavagem e/ou danifi car o aparelho.
+
+NUNCA ultrapasse a capacidade máxima do aparelho. O excesso de carga poderá alterar 
+os efeitos de lavagem e/ou daniﬁ car o aparelho.
+
 Por que necessitamos utilizar sabão (sabão em pó ou sabão líquido)?
-Para uma lavagem adequada é necessário o uso de sabão (sabão em pó ou líquido). Os sabões
-diminuem a tensão superfi cial dos tecidos e favorecem a remoção das sujidades, desta forma,
-eles proporcionam um contato maior da água com o tecido, tornando a limpeza mais efi caz.
+
+Para uma lavagem adequada é necessário o uso de sabão (sabão em pó ou líquido). Os sabões 
+diminuem a tensão superﬁ cial dos tecidos e favorecem a remoção das sujidades, desta forma, 
+eles proporcionam um contato maior da água com o tecido, tornando a limpeza mais eﬁ caz.
+
 Atenção no que diz respeito ao sabão
-• Para melhor resultado na lavagem, alguns fabricantes de sabão oferecem produtos
-específi cos para roupas coloridas, delicadas e tecidos especiais.
-• Alvejantes pertencem ao tipo alcalino e podem danifi car as roupas, por isso, é recomendável
+
+• 
+Para melhor resultado na lavagem, alguns fabricantes de sabão oferecem produtos 
+especíﬁ cos para roupas coloridas, delicadas e tecidos especiais.
+• 
+Alvejantes pertencem ao tipo alcalino e podem daniﬁ car as roupas, por isso, é recomendável 
 utilizá-los na menor quantidade possível.
-• Cada fabricante de sabão possui a quantidade recomendada para ser utilizada em cada
+• 
+Cada fabricante de sabão possui a quantidade recomendada para ser utilizada em cada 
 lavagem.
-• A Lava e Seca Midea disponibiliza diversos programas para atender às suas necessidades,
+• 
+A Lava e Seca Midea disponibiliza diversos programas para atender às suas necessidades, 
 nível de sujeira e para cuidar de suas roupas.
+
 18
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 NOTA
-• A Lava e Seca Midea com abertura frontal utiliza menor quantidade de sabão para
+
+• A Lava e Seca Midea com abertura frontal utiliza menor quantidade de sabão para 
 realizar uma lavagem completa.
-• A utilização de sabão para lavagem de roupas pode deixar resíduos em partes como
+• A utilização de sabão para lavagem de roupas pode deixar resíduos em partes como 
 bolsos, dobras etc.
+
 IMPORTANTE
-Mantenha sempre os sabões e aditivos em local seguro, seco e fora do alcance de
+
+Mantenha sempre os sabões e aditivos em local seguro, seco e fora do alcance de 
 crianças.
-Retirar itens dos bolsos das roupas antes
+
+Retirar itens dos bolsos das roupas antes 
 de serem lavadas
-Verifi que sempre os bolsos das roupas antes
-de serem lavadas. Itens rígidos tais como
-canetas, chaves, moedas, etc, podem se soltar
-e danifi car componentes da lava e seca.
-Botões, suporte de lapela de camisas (gola),
-etc podem se soltar durante a lavagem e
-podem danifi car os componentes da lava e
-seca. Recomendamos verifi car individualmente
+
+Veriﬁ que sempre os bolsos das roupas antes 
+de serem lavadas. Itens rígidos tais como 
+canetas, chaves, moedas, etc, podem se soltar 
+e daniﬁ car componentes da lava e seca.
+
+Botões, suporte de lapela de camisas (gola), 
+etc podem se soltar durante a lavagem e 
+podem daniﬁ car os componentes da lava e 
+seca. Recomendamos veriﬁ car individualmente 
 cada peça antes de cada lavagem.
-As roupas a serem lavadas são classifi cadas de acordo com suas características
-As roupas devem ser classifi cadas antes de serem
-colocadas no aparelho; observe cuidadosamente
+
+As roupas a serem lavadas são classiﬁ cadas de acordo com suas características
+
+As roupas devem ser classiﬁ cadas antes de serem 
+colocadas no aparelho; observe cuidadosamente 
 as seguintes características:
-• Símbolos de tratamento nas etiquetas: As
-roupas a serem lavadas são classifi cadas em
-algodão, fi bra mista, fi bras sintéticas, seda,
-lã e fi bra artifi cial. Verifi que as etiquetas em
+
+• 
+Símbolos de tratamento nas etiquetas: As 
+roupas a serem lavadas são classiﬁ cadas em 
+algodão, ﬁ bra mista, ﬁ bras sintéticas, seda, 
+lã e ﬁ bra artiﬁ cial. Veriﬁ que as etiquetas em 
 todas as peças antes da lavagem.
-• Cor: Cores brancas e coloridas devem ser
-pré-identifi cadas. Itens coloridos devem ser
+• 
+Cor: Cores brancas e coloridas devem ser 
+pré-identiﬁ cadas. Itens coloridos devem ser 
 lavados separadamente.
-• Tamanho: Itens de tamanhos diferentes podem ser lavados em conjunto e este efeito
+• 
+Tamanho: Itens de tamanhos diferentes podem ser lavados em conjunto e este efeito 
 pode melhorar a qualidade da lavagem.
-• Sensibilidade: É recomendado que roupas e peças delicadas sejam lavadas separadamente.
-A Lava e Seca Midea possui programa de lavagem Delicado para este tipo de peças e
+• 
+Sensibilidade: É recomendado que roupas e peças delicadas sejam lavadas separadamente. 
+A Lava e Seca Midea possui programa de lavagem Delicado para este tipo de peças e 
 roupas.
-Ao lavar cortinas com ganchos, os ganchos devem ser retirados previamente; decorações
-nas roupas podem danificar o aparelho; botões (metálicos) também podem danificar
-componentes da lava e seca. Fechos, zíperes e ganchos de fechamento devem ser mantidos
-fechados durante a lavagem. É recomendado que faixas ou fi tas soltas sejam unidas entre si.
-Recomendamos que antes de cada lavagem verifi que-se todas as peças.
+
+Ao lavar cortinas com ganchos, os ganchos devem ser retirados previamente; decorações 
+nas roupas podem danificar o aparelho; botões (metálicos) também podem danificar 
+componentes da lava e seca. Fechos, zíperes e ganchos de fechamento devem ser mantidos 
+fechados durante a lavagem. É recomendado que faixas ou ﬁ tas soltas sejam unidas entre si.
+
+Recomendamos que antes de cada lavagem veriﬁ que-se todas as peças.
+
 19
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 NOTA
+
 1
-• É recomendável colocar sutiãs em sacos
-de lavagem (com fecho ou botão) para
-evitar que o fio de aço de sustentação
-deste possa se soltar e danifi car o aparelho.
-• Roupas e peças especialmente delicadas,
-como cortinas de renda, casacos grandes,
-pequenos artigos (meias pequenas, lenços,
-etc.) também devem ser colocados em um
-2
-saco de lavagem (fi g. 1).
-• Quando lavar uma única peça ou roupa
-de tamanho grande e pesada, ela pode
-ficar posicionada de forma excêntrica
-no interior da lava e seca gerando um
-desbalanceamento da carga. Caso ocorra,
-a Lava e Seca Midea possui sensores para
-interromper este processo (exemplo fi g.
-2). Para isto não ocorrer, sempre distribua
-de forma uniforme suas roupas no interior
+
+• É recomendável colocar sutiãs em sacos 
+de lavagem (com fecho ou botão) para 
+evitar que o fio de aço de sustentação 
+deste possa se soltar e daniﬁ car o aparelho.
+• Roupas e peças especialmente delicadas, 
+como cortinas de renda, casacos grandes, 
+pequenos artigos (meias pequenas, lenços, 
+etc.) também devem ser colocados em um 
+saco de lavagem (ﬁ g. 1).
+• Quando lavar uma única peça ou roupa 
+de tamanho grande e pesada, ela pode 
+ficar posicionada de forma excêntrica 
+no interior da lava e seca gerando um 
+desbalanceamento da carga. Caso ocorra, 
+a Lava e Seca Midea possui sensores para 
+interromper este processo (exemplo ﬁ g. 
+2). Para isto não ocorrer, sempre distribua 
+de forma uniforme suas roupas no interior 
 da lava e seca.
+
+2
+
 NOTA
-Para melhorar o efeito da lavagem e remover manchas, peças pequenas como meias
+
+Para melhorar o efeito da lavagem e remover manchas, peças pequenas como meias 
 brancas, golas de camisa, etc., podem ser lavadas a mão antes de colocadas na lava e seca.
-Para proteger a pele dos bebês Não lavar materiais impermeáveis
-É recomendável que roupas e artigos para Não é recomendável lavar roupas ou peças
-bebês sejam lavados separadamente. de fi bra de nylon. Devido a pouca absorção
-A sua Lava e Seca Midea possui o programa de água os efeitos da lavagem podem fi car
-Higienizar que, com sabão adequado e comprometidos.
-temperatura elevada da água, elimina
+
+Para proteger a pele dos bebês
+
+Não lavar materiais impermeáveis
+
+É recomendável que roupas e artigos para 
+bebês sejam lavados separadamente.
+
+Não é recomendável lavar roupas ou peças 
+de ﬁ bra de nylon. Devido a pouca absorção 
+de água os efeitos da lavagem podem ﬁ car 
+comprometidos.
+
+A sua Lava e Seca Midea possui o programa 
+Higienizar que, com sabão adequado e 
+temperatura elevada da água, elimina 
 substâncias que podem causar alergias.
-Roupas que facilmente soltam fi apos
-É recomendável lavar separadamente roupas
-que facilmente soltam fiapos para evitar
+
+Roupas que facilmente soltam ﬁ apos
+
+É recomendável lavar separadamente roupas 
+que facilmente soltam fiapos para evitar 
 contaminação das demais.
-Roupas pretas e roupas de algodão devem
-preferencialmente ser lavadas em separado,
-pois podem facilmente fi car manchadas por
-outras cores, ao serem lavadas em conjunto.
-Verifi que as etiquetas antes de selecionar o
+
+Roupas pretas e roupas de algodão devem 
+preferencialmente ser lavadas em separado, 
+pois podem facilmente ﬁ car manchadas por 
+outras cores, ao serem lavadas em conjunto. 
+Veriﬁ que as etiquetas antes de selecionar o 
 programa de lavagem.
+
 20
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 Roupas não adequadas para secagem
-• É recomendável que roupas e peças particularmente delicadas, como cortinas sintéticas,
-lãs e seda, roupa com apliques de metal, fi bras de nylon, peças volumosas (tais como:
+
+• 
+É recomendável que roupas e peças particularmente delicadas, como cortinas sintéticas, 
+lãs e seda, roupa com apliques de metal, ﬁ bras de nylon, peças volumosas (tais como: 
 casacos de pele, colchas, edredons e sacos de dormir) não sejam secas no aparelho.
-• Peças acolchoadas com espuma de borracha ou materiais semelhantes não devem ser
+• 
+Peças acolchoadas com espuma de borracha ou materiais semelhantes não devem ser 
 secos no aparelho, pois apresentam risco de incêndio.
+
 IMPORTANTE
-• Tecidos contendo resíduos de fixador ou sprays de cabelo, acetona ou soluções
+
+• Tecidos contendo resíduos de fixador ou sprays de cabelo, acetona ou soluções 
 semelhantes não devem ser secos no aparelho, para evitar a formação de vapores nocivos.
-• É recomendável que roupas ou peças que soltam grande quantidade de fi apos não
+• É recomendável que roupas ou peças que soltam grande quantidade de ﬁ apos não 
 sejam secas na sua lava e seca.
+
 Símbolos mais comuns nas etiquetas de vestuário
-LAVAGEM PASSÁVEL SECAGEM
-NORMAL COM FERRO EM VARAL
-L D A E V LI A C G A E D M A N S A E Ã F R O E P R P A R O S O D S E ADO P A A A U F S X E S Í R L Á R IO V O E D L C E O P M ANO
-LAVAGEM PODE SER PASSÁVEL
-QUENTE PASSADO A FERRO A FERRO
-(MÁX. 40OC) (MÁX. 1000C) COM VAPOR
-L M A A V N A U G A E L M P P (M O A Á S D X S E A . S 1 D 5 E O 0 R 0 A C) FERRO S A E L C A A V R A A G P E Ó M S
-NÃO LAVAR LAVAGEM SECAR
-COM ÁGUA A SECO À SOMBRA
-LAVAGEM COM NÃO LAVAR SECAGEM
-ALVEJANTE A SECO A QUENTE
-N A Ã LV O E U JA TI N L T IZ E A S R L C S A O O V L M V A Q E G N U E T A M E L A Q U SE E C R O N EM Ã O S E S C E A C D A O R RA
-LAVAGEM COM LAVAGEM A SECO SECAR DE
-ALVEJANTE COM SOLVENTE PREFERÊNCIA
-CLORADO DE PETRÓLEO EM CABIDE
-N A CL Ã L O V O E R U J A A T D I N L O T IZ E AR L N A O V R A M G A E L M N TO Ã R O CER
-S T M E U É C R D A B IO R IL ( H P M O O Á N R X A . M 15 E 0 N O T C O ) S N H E O A C R P A I O Z R O SI N Ç T Ã A O L N EM Ã O M Á LA Q V U A IN R A
-SECAR POR PODE SER
-TURBILHONAMENTO ESTENDIDO
-BAIXO (MÁX. 110OC) PARA SECAR
+
+SECAGEM
+EM VARAL
+LAVAGEM
+NORMAL
+
+PASSÁVEL
+COM FERRO
+
+NÃO PODE
+SER PASSADO
+A FERRO
+
+PASSÁVEL
+A FERRO COM
+AUXÍLIO DE PANO
+
+LAVAGEM
+DELICADA
+
+LAVAGEM
+QUENTE
+(MÁX. 40OC)
+
+PODE SER
+PASSADO A FERRO
+(MÁX. 1000C)
+
+PASSÁVEL
+A FERRO
+COM VAPOR
+
+PODE SER
+PASSADO A FERRO
+(MÁX. 1500C)
+
+SECAR APÓS
+A LAVAGEM
+LAVAGEM
+MANUAL
+
+LAVAGEM
+A SECO
+
+SECAR 
+À SOMBRA
+NÃO LAVAR
+COM ÁGUA
+
+SECAGEM
+A QUENTE
+LAVAGEM COM
+ALVEJANTE
+NÃO LAVAR
+A SECO
+
+LAVAGEM A SECO
+COM QUALQUER
+SOLVENTE
+
+NÃO SECAR
+EM SECADORA
+NÃO UTILIZAR
+ALVEJANTES
+
+LAVAGEM COM
+ALVEJANTE
+CLORADO
+
+LAVAGEM A SECO
+COM SOLVENTE
+DE PETRÓLEO
+
+SECAR DE
+PREFERÊNCIA
+EM CABIDE
+
+NÃO UTILIZAR
+ALVEJANTE
+CLORADO
+
+LAVAGEM
+NORMAL
+
+NÃO
+TORCER
+
+SECAR POR
+TURBILHONAMENTO
+MÉDIO (MÁX. 150OC)
+
+SECAR
+NA POSIÇÃO
+HORIZONTAL
+
+NÃO LAVAR
+EM MÁQUINA
+
+SECAR POR
+TURBILHONAMENTO
+BAIXO (MÁX. 110OC)
+
+PODE SER
+ESTENDIDO
+PARA SECAR
+
 21
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 5 - CARACTERÍSTICAS DO PAINEL DE CONTROLE
-Dispenser Seletor de Programas Display Painel de Opções
+
+Dispenser
+Display
+Painel de Opções
+Seletor de Programas
+
 5.1 - Dispenser
-O dispenser é dividido em três compartimentos
-conforme abaixo (fi gura 1): 1
-Detergente, alvejante ou sabão em pó para
+
+O dispenser é dividido em três compartimentos 
+conforme abaixo (ﬁ gura 1):
+
+1
+
+Detergente, alvejante  ou sabão em pó para 
 ciclo de pré-lavagem.
-Aditivo para lavagem, tal como: amaciante
+
+Aditivo para lavagem, tal como: amaciante 
 ou goma formadora.
-Sabão (em pó ou líquido) para ciclo principal
-de lavagem, agente de pré-enxágue, alvejante
+
+Sabão (em pó  ou líquido) para ciclo principal 
+de lavagem, agente de pré-enxágue, alvejante 
 e removedor de manchas.
+
 IMPORTANTE
-• O dispenser deve ser abastecido (ou
-reabastecido) antes do início de cada ciclo
+
+• O dispenser deve ser abastecido (ou 
+reabastecido) antes do início de cada ciclo 
 de lavagem.
-• Não é recomendado abrir o dispenser da lava
+
+• Não é recomendado abrir o dispenser da lava 
+e seca durante o funcionamento, para evitar 
+danos e vazamentos.
+
 PERIGO
-e seca durante o funcionamento, para evitar
-danos e vazamentos. Detergentes são corrosivos!
-Armazene-os em um lugar seco
-NOTA e seguro, mantendo-os fora do
+
+Detergentes são corrosivos!
+
+Armazene-os em um lugar seco 
+e seguro, mantendo-os fora do 
 alcance de crianças.
-• É recomendável ter atenção à limpeza periódica
-do dispenser (verifi que o item 11 - Limpeza e
-Manutenção). O uso excessivo de sabão ou
-fl uidos viscosos pode causar entupimento e
+
+NOTA
+
+• É recomendável ter atenção à limpeza periódica 
+do dispenser (veriﬁ que o item 11 - Limpeza e 
+Manutenção). O uso excessivo de sabão ou 
+ﬂ uidos viscosos pode causar entupimento e 
 prejudicar o funcionamento da sua lava e seca.
-• Caso o amaciante e/ou sabão utilizado seja
-muito viscoso recomenda-se a diluição dele
-em água, antes de colocá-lo no dispenser para
+
+• Caso o amaciante e/ou sabão utilizado seja 
+muito viscoso recomenda-se a diluição dele 
+em água, antes de colocá-lo no dispenser para 
 realizar a lavagem.
+
 22
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 5.2 - Seletor De Programas
-2 3
-1
-1. Botão seletor de programas: gire o botão seletor de programas até o ícone correspondente
-ao programa mais adequado conforme sua necessidade.
-2. Ícones de seleção do menu de programas com as opções: favorito, algodão, mix, sintético,
-Higienizar, centrifugar e secar.
-3. Ícones de seleção do menu de programas com as opções: rápido 15/60’, desodorizar, super
-ECO, delicado/lã, pesado/jeans, edredom e limpeza do tambor.
-5.3 - Display
-8
-1
-7
-2
-6
+
 3
-4 5
-1. Display indicativo de tempo de lavagem, 4. Ícones indicativos das funções: Master
-temperatura, velocidade, códigos de erro e Clean Óleo, Master Clean Grafi te, Master
-tempo programado na função adiar início. Clean Sangue, Master Clean Chocolate e
-2. Ícones indicativos: função adiar início, Master Clean Vinho Tinto.
-bloqueio da porta, bloqueio do painel de 5. Ícones indicativos de seleção: enxágue
-controle e ciclo de secagem. extra, pré lavagem e vapor.
-3. Ícones indicativos: pré lavagem, ciclo 6. Ícone indicativo da função turbo.
-de lavagem, ciclo de enxágue e ciclo de 7. Ícone indicativo Wi-Fi.
+2
+
+1
+
+1. 
+Botão seletor de programas: gire o botão seletor de programas até o ícone correspondente 
+ao programa mais adequado conforme sua necessidade.
+
+2. Ícones de seleção do menu de programas com as opções: favorito, algodão, mix, sintético, 
+Higienizar, centrifugar e secar.
+
+3. Ícones de seleção do menu de programas com as opções: rápido 15/60’, desodorizar, super 
+ECO, delicado/lã, pesado/jeans, edredom e limpeza do tambor.
+
+5.3 - Display
+
+8
+
+1
+
+7
+
+2
+
+6
+
+3
+
+4
+5
+
+1. 
+Display indicativo de tempo de lavagem, 
+temperatura, velocidade, códigos de erro e 
+tempo programado na função adiar início.
+
+4. Ícones indicativos das funções: Master 
+Clean Óleo, Master Clean Graﬁ te, Master 
+Clean Sangue, Master Clean Chocolate e 
+Master Clean Vinho Tinto.
+
+2. Ícones indicativos: função adiar início, 
+bloqueio da porta, bloqueio do painel de 
+controle e ciclo de secagem.
+
+5. Ícones indicativos de seleção: enxágue 
+extra, pré lavagem e vapor.
+
+3. Ícones indicativos: pré lavagem, ciclo 
+de lavagem, ciclo de enxágue e ciclo de 
 centrifugação.
-8. Ícone indicativo da função de controle
+
+6. Ícone indicativo da função turbo.
+
+7. Ícone indicativo Wi-Fi.
+
+8. Ícone indicativo da função de controle 
 remoto.
+
 23
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 5.4 - Painel de Opções
+
 12
-1 2 4 6 8 10 11
-3 5 7 9
+
+1
+
+3
+5
+7
+9
+2
+4
+8
+10
+11
+
+6
+
 1. Tecla secar: pressione essa tecla para adicionar um ciclo de secagem extra.
-2. Tecla temp.: pressione essa tecla para alterar a temperatura da água durante o ciclo
+
+2. Tecla temp.: pressione essa tecla para alterar a temperatura da água durante o ciclo 
 de lavagem.
-3. Função adiar início: pressione as teclas temp. e centrif. por 3 segundos para programar o
+
+3. Função adiar início: pressione as teclas temp. e centrif. por 3 segundos para programar o 
 adiamento do início de um programa de lavagem. Mantenha pressionado para ajuste contínuo.
+
 4. Tecla centrif.: pressione essa tecla para adicionar uma centrifugação extra.
-5. Função Favorito: pressione as teclas centrif. e MASTER clean por 3 segundos para
-memorizar as confi gurações no programa favorito.
-6. Tecla MASTER clean: pressione essa tecla para selecionar as opções especiais de lavagem
+
+5. Função Favorito: pressione as teclas centrif. e MASTER clean por 3 segundos para 
+memorizar as conﬁ gurações no programa favorito.
+
+6. Tecla MASTER clean: pressione essa tecla para selecionar as opções especiais de lavagem 
 MASTER Clean.
-7. Função silenciar: pressione as teclas MASTER clean e função por 3 segundos para
+
+7. Função silenciar: pressione as teclas MASTER clean e função por 3 segundos para 
 desativar os avisos sonoros da lava e seca.
-8. Tecla opções extras de lavagem: pressione essa tecla para selecionar as opções extras
-de lavagem. Mantenha essa tecla pressionada por 3 segundos para ativar o modo de
-confi guração e adicionar sua lava e seca ao aplicativo através da conexão Wi-Fi.
-9. Função travar: pressione as teclas função e TURBO por 3 segundos para ativar ou
+
+8. Tecla opções extras de lavagem: pressione essa tecla para selecionar as opções extras 
+de lavagem. Mantenha essa tecla pressionada por 3 segundos para ativar o modo de 
+conﬁ guração e adicionar sua lava e seca ao aplicativo através da conexão Wi-Fi.
+
+9. Função travar: pressione as teclas função e TURBO por 3 segundos para ativar ou 
 desativar o bloqueio do painel de controle.
-10. Tecla TURBO: pressione essa tecla para ativar a função turbo nos programas disponíveis.
-Mantenha essa tecla pressionada por 3 segundos para ativar o controle remoto da sua
+
+10. Tecla TURBO: pressione essa tecla para ativar a função turbo nos programas disponíveis. 
+Mantenha essa tecla pressionada por 3 segundos para ativar o controle remoto da sua 
 lava e seca via Wi-Fi.
-11. Tecla INICIAR/pausar: pressione-o para iniciar ou pausar o programa. Pressione essa
+
+11. Tecla INICIAR/pausar: pressione-o para iniciar ou pausar o programa. Pressione essa 
 tecla por 3 segundos para incluir ou retirar roupas durante um programa de lavagem.
+
 12. Tecla LIGAR/desligar: pressione-o para ligar e desligar o aparelho.
+
 NOTA
-Verifi que as características e confi guração de funcionamento do painel de opções na
+
+Veriﬁ que as características e conﬁ guração de funcionamento do painel de opções na 
 tabela do item 8 - Utilizando as Funções do Painel de Opções.
+
 24
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-6 - UTILIZANDO SUA LAVA E SECA
+
 6.1 - Iniciando a Autolimpeza
+6 - UTILIZANDO SUA LAVA E SECA
+
 NOTA
-É recomendável que periodicamente e antes de lavar suas roupas pela primeira vez, se faça um
+
+É recomendável que periodicamente e antes de lavar suas roupas pela primeira vez, se faça um 
 ciclo completo de lavagem (sem roupas), com o programa limpeza do tambor.
+
 Siga os passos indicados abaixo para realizar o processo:
-1. Abra o dispenser, coloque um pouco de detergente no compartimento “ ” e feche-o (verifi que o
+
+1. 
+Abra o dispenser, coloque um pouco de detergente no compartimento “ ” e feche-o (veriﬁ que o 
 item 5.1 - Dispenser).
+
 2. Gire o botão seletor até o programa limpeza do tambor.
+
 3. Pressione o botão LIGAR/desligar.
+
 4. Pressione o botão INICIAR/pausar.
+
 6.2 - Iniciando a Lavagem de Roupas
+
 NOTA
-Antes do início de cada ciclo de lavagem, verifi que atentamente se não há nenhuma peça
-de roupa ou objeto obstruindo a porta da lava e seca e/ou impedindo a correta vedação e o
+
+Antes do início de cada ciclo de lavagem, veriﬁ que atentamente se não há nenhuma peça 
+de roupa ou objeto obstruindo a porta da lava e seca e/ou impedindo a correta vedação e o 
 correto funcionamento durante a lavagem.
+
 PERIGO
-• Não é recomendado ultrapassar a quantidade de 40g de sabão líquido ou granulado (pó)
-por lavagem. Essa quantidade não traz prejuízo na qualidade da lavagem, ajuda a preservar
+
+• Não é recomendado ultrapassar a quantidade de 40g de sabão líquido ou granulado (pó) 
+por lavagem. Essa quantidade não traz prejuízo na qualidade da lavagem, ajuda a preservar 
 o equipamento e economiza sabão.
-• Usar sabão demais pode danifi car as roupas e produzir quantidade excessiva de espuma
-com risco de transbordamento pelo dispenser e porta da lava e seca. Vazamentos podem
+• Usar sabão demais pode daniﬁ car as roupas e produzir quantidade excessiva de espuma 
+com risco de transbordamento pelo dispenser e porta da lava e seca. Vazamentos podem 
 causar mau funcionamento da sua lava e seca.
+
 IMPORTANTE
-Ao utilizar amaciantes, evite que ele entre em contato com sabão e detergentes durante a
+
+Ao utilizar amaciantes, evite que ele entre em contato com sabão e detergentes durante a 
 lavagem, pois isso pode gerar manchas nas roupas.
-1. Abra a porta da lava e seca, coloque as roupas a serem lavadas e feche a porta.
-2. Abra o dispenser de detergente (verifi que o item 5.1 - Dispenser).
-3. Coloque o detergente principal no compartimento II.
-4. Coloque (quando necessário) o amaciante no compartimento .
-5. Coloque o detergente (sabão) de pré-lavagem no compartimento I (quando necessário).
-6. Feche o dispenser pressionando-o até que trave.
-7. Pressione o botão LIGAR/desligar.
-8. Selecione botão seletor o programa de lavagem desejada.
-9. Pressione o botão INICIAR/pausar.
+
+1. 
+Abra a porta da lava e seca, coloque as roupas a serem lavadas e feche a porta.
+
+2. 
+Abra o dispenser de detergente (veriﬁ que o item 5.1 - Dispenser).
+
+3. 
+Coloque o detergente principal no compartimento II.
+
+4. 
+Coloque (quando necessário) o amaciante no compartimento 
+ .
+
+5. 
+Coloque o detergente (sabão) de pré-lavagem no compartimento I (quando necessário).
+
+6. 
+Feche o dispenser pressionando-o até que trave.
+
+7. 
+Pressione o botão LIGAR/desligar.
+
+8. 
+Selecione botão seletor o programa de lavagem desejada.
+
+9. 
+Pressione o botão INICIAR/pausar.
+
 NOTA
-Depois de cada lavagem, desligue a fonte de água e deixe a porta entreaberta por alguns
+
+Depois de cada lavagem, desligue a fonte de água e deixe a porta entreaberta por alguns 
 minutos para evitar umidade e possíveis odores na sua lava e seca.
+
 25
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 6.3 - Iniciando a Secagem de Roupas
-A sua Lava e Seca Midea possui ciclos completos e automáticos de lavagem e secagem para suas
-roupas, mas também oferece a opção de apenas secar. Você pode escolher as preferências de
+
+A sua Lava e Seca Midea possui ciclos completos e automáticos de lavagem e secagem para suas 
+roupas, mas também oferece a opção de apenas secar. Você pode escolher as preferências de 
 secagem que forem mais apropriadas para cada tipo de roupa.
-Observe atentamente a capacidade permitida para os processos de secagem conforme a
-capacidade de sua lava e seca. Caso a lavagem exceda a quantidade máxima de secagem, é
+
+Observe atentamente a capacidade permitida para os processos de secagem conforme a 
+capacidade de sua lava e seca. Caso a lavagem exceda a quantidade máxima de secagem, é 
 necessário remover as roupas até o limite aceitável para secagem.
+
 NOTA
-Abrindo a porta da sua Lava e Seca Midea há uma etiqueta indicando o nível máximo para
+
+Abrindo a porta da sua Lava e Seca Midea há uma etiqueta indicando o nível máximo para 
 o processo de secagem.
+
 Você pode iniciar um processo de secagem de duas formas:
+
 A. Processo automático (inclui processo de lavagem e secagem)
-1. Abra a porta da lava e seca e coloque as roupas que deseja lavar e secar.
+
+1. 
+Abra a porta da lava e seca e coloque as roupas que deseja lavar e secar.
 2. Personalize as opções de tempo de secagem.
 3. Pressione a tecla INICIAR/pausar.
+
 B. Apenas secar
-1. Abra a porta da lava e seca e coloque as roupas que deseja secar.
+
+1. 
+Abra a porta da lava e seca e coloque as roupas que deseja secar.
 2. Selecione o programa secar.
 3. Personalize as opções de tempo de secagem.
 4. Pressione a tecla INICIAR/pausar.
+
 26
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 7 - DESCRIÇÃO DOS PROGRAMAS DA LAVA E SECA
-O programa de lavagem mais adequado deve ser escolhido conforme o tipo, quantidade
-e sujidade das roupas a serem lavadas. Gire o botão seletor até o ícone correspondente
+
+O programa de lavagem mais adequado deve ser escolhido conforme o tipo, quantidade 
+e sujidade das roupas a serem lavadas. Gire o botão seletor até o ícone correspondente 
 ao programa desejado para operação.
-NOME DESCRIÇÃO DO PROGRAMA
-Utilize este programa para memorizar suas preferências de
-utilização. Para armazenar seu programa “favorito” verifi que o
+
+NOME
+DESCRIÇÃO DO PROGRAMA
+
+Utilize este programa para memorizar suas preferências de 
+utilização. Para armazenar seu programa “favorito” veriﬁ que o 
 item 8 - Utilizando as Funções do Painel de Opções.
-Programa indicado para lavar roupas de algodão, cama e mesa,
+
+Programa indicado para lavar roupas de algodão, cama e mesa, 
 peças íntimas, camisetas e camisas com pouca sujeira.
+
 Programa indicado para lavar roupas de algodão e tecidos sintéticos.
-Programa indicado para lavar roupas de tecidos sintéticos, como
-blusas, casacos e itens mistos. O procedimento de lavagem é mais
-curto quando comparado com o programa indicado para itens
-de algodão. O processo de lavagem é mais suave, diminuindo a
-agressão às fi bras das roupas.
-Esse programa mantém a temperatura de lavagem em 70 graus
-por mais de 30 minutos, sendo indicado para remover mais
+
+Programa indicado para lavar roupas de tecidos sintéticos, como 
+blusas, casacos e itens mistos. O procedimento de lavagem é mais 
+curto quando comparado com o programa indicado para itens 
+de algodão. O processo de lavagem é mais suave, diminuindo a 
+agressão às ﬁ bras das roupas.
+
+Esse programa mantém a temperatura de lavagem em 70 graus 
+por mais de 30 minutos, sendo indicado para remover mais 
 efetivamente as bactérias.
-Programa recomendado para realizar apenas a etapa de
+
+Programa recomendado para realizar apenas a etapa de 
 centrifugação.
-Inclui apenas ciclo de secagem, sem ciclo de lavagem. Ao
-selecionar este programa o display exibe “AU”. Quando pressionar
-a tecla “INICAR/pausar” a sua lava e seca iniciará o processo de
-secagem. Ela fará um ajuste automático do tempo conforme o
-tipo e quantidade de roupas, mas você ainda pode escolher as
+
+Inclui apenas ciclo de secagem, sem ciclo de lavagem. Ao 
+selecionar este programa o display exibe “AU”. Quando pressionar 
+a tecla “INICAR/pausar” a sua lava e seca iniciará o processo de 
+secagem. Ela fará um ajuste automático do tempo conforme o 
+tipo e quantidade de roupas, mas você ainda pode escolher as 
 seguintes opções de tempo: 30, 60, 90, 120 e 180 minutos.
+
 NOTA
-• A Lava e Seca Midea fará a atualização automática do tempo de secagem (para mais ou
-para menos) para garantir uma melhor qualidade e satisfação da secagem.
-• Após o ciclo de secagem a porta da Lava e Seca Midea fi cará travada até atingir uma
+
+• A Lava e Seca Midea fará a atualização automática do tempo de secagem (para mais ou 
+para menos) para garantir uma melhor qualidade e satisfação da secagem. 
+• Após o ciclo de secagem a porta da Lava e Seca Midea ﬁ cará travada até atingir uma 
 temperatura segura para manuseio.
-• Após a secagem das roupas, é normal que as mesmas apresentem uma temperatura
+• Após a secagem das roupas, é normal que as mesmas apresentem uma temperatura 
 elevada. Isto ocorre devido ao processo, que é feito em altas temperaturas.
+
 27
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-NOME DESCRIÇÃO DO PROGRAMA
-Programa indicado para roupas sintéticas pequenas, jeans
-leves e camisetas, observando o limite de capacidade 2 kg
-(aproximadamente um jeans, uma blusa de material sintético e
+
+NOME
+DESCRIÇÃO DO PROGRAMA
+
+Programa indicado para roupas sintéticas pequenas, jeans 
+leves e camisetas, observando o limite de capacidade 2 kg 
+(aproximadamente um jeans, uma blusa de material sintético e 
 uma camiseta).
+
 NOTA
-É essencial para o correto desempenho do programa que seja observada a carga de até
-2 kg de roupas. Toalhas grandes e jeans mais pesados, por exemplo, não são compatíveis
+
+É essencial para o correto desempenho do programa que seja observada a carga de até 
+2 kg de roupas. Toalhas grandes e jeans mais pesados, por exemplo, não são compatíveis 
 com este programa, já que necessitam um tempo maior de lavagem.
-NOME DESCRIÇÃO DO PROGRAMA
-Esse programa utiliza circulação de ar quente para remoção de
+
+NOME
+DESCRIÇÃO DO PROGRAMA
+
+Esse programa utiliza circulação de ar quente para remoção de 
 odores impregnados nos tecidos.
-O programa trabalha com água fria mantendo a mesma performance
+
+O programa trabalha com água fria mantendo a mesma performance 
 de lavagem economizando energia.
-Programa especialmente desenvolvido para lavar roupas que
-podem danifi car facilmente, tais como roupas íntimas (lingerie em
-geral) e artigos de seda e lã, sendo mais cuidadoso no enxágue e
+
+Programa especialmente desenvolvido para lavar roupas que 
+podem daniﬁ car facilmente, tais como roupas íntimas (lingerie em 
+geral) e artigos de seda e lã, sendo mais cuidadoso no enxágue e 
 operando com menor tempo que outros ciclos.
-Este programa foi especialmente desenvolvido para a lavagem
-de jeans, pois a combinação de tempo, temperatura mais baixa
-e menor rotação, evitam danos aos tecidos e proporcionam uma
+
+Este programa foi especialmente desenvolvido para a lavagem 
+de jeans, pois a combinação de tempo, temperatura mais baixa 
+e menor rotação, evitam danos aos tecidos e proporcionam uma 
 maior durabilidade das peças.
-Este programa foi especialmente desenvolvido para lavar edredons
-ou mesmo peças maiores e volumosas, tais como mantas e cobertas
+
+Este programa foi especialmente desenvolvido para lavar edredons 
+ou mesmo peças maiores e volumosas, tais como mantas e cobertas 
 com pouca ou média sujidade.
-Este programa é específi co para limpeza do tambor e das mangueiras.
-Durante o ciclo, de aproximadamente 1 hora e meia, a água circulará
-na temperatura máxima, o que proporcionará uma maior esterilização
-do aparelho, tendo desta maneira como resultado uma lavagem
-mais efi caz. Quando este procedimento é realizado, roupas ou
-outros itens não podem ser adicionados. É recomendável utilizar
+
+Este programa é especíﬁ co para limpeza do tambor e das mangueiras. 
+Durante o ciclo, de aproximadamente 1 hora e meia, a água circulará 
+na temperatura máxima, o que proporcionará uma maior esterilização 
+do aparelho, tendo desta maneira como resultado uma lavagem 
+mais eﬁ caz. Quando este procedimento é realizado, roupas ou 
+outros itens não podem ser adicionados. É recomendável utilizar 
 este programa de forma periódica conforme a necessidade.
+
 NOTA
-A efi ciência na lavagem das mangueiras será maior se for adicionada água sanitária ao
+
+A eﬁ ciência na lavagem das mangueiras será maior se for adicionada água sanitária ao 
 programa limpeza do tambor. Utilize o compartimento do dispenser para isto.
+
 28
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 8 - UTILIZANDO AS FUNÇÕES DO PAINEL DE OPÇÕES
-A sua lava e seca possui algumas opções extras que podem ser adicionadas aos programas
+
+A sua lava e seca possui algumas opções extras que podem ser adicionadas aos programas 
 de lavagem. As opções são:
+
 NOTA
-Verifi que a disponibilidade das opções extras na tabela do item 9 - Confi guração e
+
+Veriﬁ que a disponibilidade das opções extras na tabela do item 9 - Conﬁ guração e 
 Características dos Programas.
-ÍCONE CONFIGURAÇÃO/CARACTERÍSTICAS
-Essa opção adiciona uma secagem extra ao programa de lavagem
+
+ÍCONE
+CONFIGURAÇÃO/CARACTERÍSTICAS
+
+Essa opção adiciona uma secagem extra ao programa de lavagem 
 selecionado.
+
 A função adiar início pode ser programada entre 1h e 24h.
-Programar: 1. Selecione o programa de lavagem;
-2. Pressione as teclas secar e temp. por 3 segundos
+
+Programar: 
+1.  Selecione o programa de lavagem;
+ 
+2.  Pressione as teclas secar e temp. por 3 segundos 
 para ajustar o tempo de adiamento;
-3. Pressione o botão INICIAR/pausar para iniciar
+ 
+3. Pressione o botão INICIAR/pausar para iniciar 
 a operação.
-Durante a contagem regressiva para adiar o início do programa
-o display apresentará o tempo restante (em horas) com a letra
-“H” (por exemplo: 2 horas restantes é exibido “2H”). Enquanto
-a função estiver acionada, a tecla adiar início fi cará acesa no
+
+Durante a contagem regressiva para adiar o início do programa 
+o display apresentará o tempo restante (em horas) com a letra 
+“H” (por exemplo: 2 horas restantes é exibido “2H”). Enquanto 
+a função estiver acionada, a tecla adiar início ﬁ cará acesa no 
 painel de controle.
-Cancelar: Pressione as teclas temp. e centrif. por 3 segundos
-até que o display no painel apresente “0H”, as teclas
-devem ser pressionadas antes de iniciar o programa.
-Se o programa já tiver iniciado, pressione o botão
+
+Cancelar:  
+Pressione as teclas temp. e centrif. por 3 segundos 
+até que o display no painel apresente “0H”, as teclas 
+devem ser pressionadas antes de iniciar o programa. 
+Se o programa já tiver iniciado, pressione o botão 
 LIGAR/desligar.
+
 NOTA
-Se houver falha na alimentação de energia enquanto o aparelho estiver em operação,
-a memória de programação guardará o programa selecionado. Quando a alimentação
+
+Se houver falha na alimentação de energia enquanto o aparelho estiver em operação, 
+a memória de programação guardará o programa selecionado. Quando a alimentação 
 for restabelecida, a lava e seca irá retornar automaticamente ao ciclo de onde parou.
-ÍCONE CONFIGURAÇÃO/CARACTERÍSTICAS
-Utilize essa opção para alterar a temperatura da água a ser utilizada
-durante o ciclo de lavagem. Você pode selecionar as seguintes
-temperaturas: 20°C - 30°C - 40°C - 60°C e 90°C para modelos
+
+ÍCONE
+CONFIGURAÇÃO/CARACTERÍSTICAS
+
+Utilize essa opção para alterar a temperatura da água a ser utilizada 
+durante o ciclo de lavagem. Você pode selecionar as seguintes 
+temperaturas: 20°C - 30°C - 40°C - 60°C e 90°C para modelos 
 220V~ e 20°C - 30°C - 40°C - 50°C e 60°C para modelos 127V~.
+
 29
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-ÍCONE CONFIGURAÇÃO/CARACTERÍSTICAS
-Utilize este programa para memorizar suas preferências de
-utilização. Para armazenar seu programa “favorito” siga o passo
+
+ÍCONE
+CONFIGURAÇÃO/CARACTERÍSTICAS
+
+Utilize este programa para memorizar suas preferências de 
+utilização. Para armazenar seu programa “favorito” siga o passo 
 a passo a seguir:
-O programa padrão é algodão, então usaremos este como
+
+O programa padrão é algodão, então usaremos este como 
 exemplo.
+
 1. Gire o botão seletor até o programa algodão.
-2. Selecione as opções que você quer alterar: turbo, velocidade
-de centrifugação, enxágue, adiar início, vapor, temperatura e
+2. Selecione as opções que você quer alterar: turbo, velocidade 
+de centrifugação, enxágue, adiar início, vapor, temperatura e 
 pré lavagem.
-3. Pressione as teclas centrif. e MASTER clean por 3 segundos
-para memorizar o procedimento.
-4. O aparelho emite um sinal sonoro (bip) indicando que as
-alterações foram armazenadas,
-5. Para acessar o programa memorizado basta girar o botão
+3. Pressione as teclas centrif. e MASTER clean por 3 segundos 
+para memorizar o procedimento. 
+4. O aparelho emite um sinal sonoro (bip) indicando que as 
+alterações foram armazenadas, 
+5. Para acessar o programa memorizado basta girar o botão 
 seletor até o programa favorito.
-6. O programa favorito fi cará armazenado até que seja feita
+6. O programa favorito ﬁ cará armazenado até que seja feita 
 uma nova memorização.
+
 NOTA
-Outra maneira de utilizar o programa favorito é escolhendo qualquer um dos programas,
-fazer as alterações de velocidade e temperatura desejados e em seguida pressionar
+
+Outra maneira de utilizar o programa favorito é escolhendo qualquer um dos programas, 
+fazer as alterações de velocidade e temperatura desejados e em seguida pressionar 
 as teclas centrif. e MASTER clean por 3 segundos.
-ÍCONE CONFIGURAÇÃO/CARACTERÍSTICAS
-Essa tecla altera as opções de velocidade de centrifugação da
-lava e seca entre: 0 (sem rotação) / 600 / 800 / 1000 / 1200 /
+
+ÍCONE
+CONFIGURAÇÃO/CARACTERÍSTICAS
+
+Essa tecla altera as opções de velocidade de centrifugação da 
+lava e seca entre: 0 (sem rotação) / 600 / 800 / 1000 / 1200 / 
 1400 rpm.
+
 Essa tecla oferece ciclos de lavagem especiais para itens sujos por:
+
 Óleo
-Grafi te
+
+Graﬁ te
+
 Sangue
+
 Chocolate
+
 Vinho Tinto
+
 30
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-ÍCONE CONFIGURAÇÃO/CARACTERÍSTICAS
-Essa função tem como objetivo evitar que as crianças usem
-indevidamente o painel de controle da lava e seca. Pressione as
-teclas função e TURBO por 3 segundos, até a lava e seca emitir um
-“beep”, para travar o painel. O ícone de bloqueio ( ) acenderá
+
+ÍCONE
+CONFIGURAÇÃO/CARACTERÍSTICAS
+
+Essa função tem como objetivo evitar que as crianças usem 
+indevidamente o painel de controle da lava e seca. Pressione as 
+teclas função e TURBO por 3 segundos, até a lava e seca emitir um 
+“beep”, para travar o painel. O ícone de bloqueio ( 
+ ) acenderá 
 no display do painel de controle.
+
 NOTA
-• A função travar desativa todos botões do painel de controle, com exceção das teclas
+
+• A função travar desativa todos botões do painel de controle, com exceção das teclas 
 LIGAR/desligar e travar.
-• Para destravar o painel de controle, é necessário pressionar as teclas função e TURBO
+
+• Para destravar o painel de controle, é necessário pressionar as teclas função e TURBO 
 durante 3 segundos novamente.
+
 IMPORTANTE
-• Se alguma tecla no painel de controle for pressionada, o ícone de bloqueio ( ) no
+
+• Se alguma tecla no painel de controle for pressionada, o ícone de bloqueio ( 
+ ) no 
 display piscará durante 3 segundos.
-• Quando o bloqueio do painel de controle estiver ativo, o display exibirá, alternadamente,
+
+• Quando o bloqueio do painel de controle estiver ativo, o display exibirá, alternadamente, 
 “CL” e o tempo restante do programa de lavagem.
-• Ao fi nalizar o programa de lavagem, o display exibirá, alternadamente, “CL” e “END”
-durante 10 segundos, e o ícone de bloqueio ( ) piscará por 3 segundos.
-ÍCONE CONFIGURAÇÃO/CARACTERÍSTICAS
+
+• Ao ﬁ nalizar o programa de lavagem, o display exibirá, alternadamente, “CL” e “END” 
+durante 10 segundos, e o ícone de bloqueio ( 
+ ) piscará por 3 segundos.
+
+ÍCONE
+CONFIGURAÇÃO/CARACTERÍSTICAS
+
 Pressione essa tecla para selecionar as opções extras de lavagem:
-Enxágue extra: essa opção adiciona um enxágue extra ao
+
+Enxágue extra: essa opção adiciona um enxágue extra ao 
 programa de lavagem selecionado.
-Pré lavagem: essa opção adiciona uma lavagem extra antes
-do programa de lavagem principal, melhorando a efi ciência do ciclo.
-Vapor: essa opção adiciona vapor ao início do ciclo de
+
+Pré lavagem: essa opção adiciona uma lavagem extra antes 
+do programa de lavagem principal, melhorando a eﬁ ciência do ciclo.
+
+Vapor: essa opção adiciona vapor ao início do ciclo de 
 lavagem, ajudando na esterilização dos itens.
-Mantenha essa tecla pressionada por 3 segundos para ativar o
-modo de confi guração e adicionar sua lava e seca ao aplicativo
+
+Mantenha essa tecla pressionada por 3 segundos para ativar o 
+modo de conﬁ guração e adicionar sua lava e seca ao aplicativo 
 através da conexão Wi-Fi.
+
 NOTA
-Para a opção pré lavagem, é necessário adicionar detergente, alvejante ou sabão em
-pó no compartimento do dispenser de detergente.
+
+Para a opção pré lavagem, é necessário adicionar detergente, alvejante ou sabão em 
+pó no compartimento
+do dispenser de detergente.
+
 31
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-ÍCONE CONFIGURAÇÃO/CARACTERÍSTICAS
-Sua lava e seca possui uma função turbo que pode ser ativada
-durante os programas de lavagem que possuem o ícone “ ”.
+
+ÍCONE
+CONFIGURAÇÃO/CARACTERÍSTICAS
+
+Sua lava e seca possui uma função turbo que pode ser ativada 
+durante os programas de lavagem que possuem o ícone “ 
+ ”. 
 Essa função reduz o tempo do programa selecionado.
-Mantenha essa tecla pressionada por 3 segundos para ativar o
+
+Mantenha essa tecla pressionada por 3 segundos para ativar o 
 controle remoto da sua lava e seca via Wi-Fi.
+
 NOTA
-Para utilizar a função de controle remoto é necessário confi gurar sua lava e seca pelo
-aplicativo. Verifi que o item 10 - Conectividade WiFi e Aplicativo SmartHome.
-ÍCONE CONFIGURAÇÃO/CARACTERÍSTICAS
-Durante o ciclo se você quiser abrir a porta, para retirar ou colocar
-roupas, pressione a tecla INICIAR/pausar durante 3 segundos.
-Este procedimento desbloqueia a porta permitindo que esta
-seja aberta. Após retirar ou colocar as roupas, feche a porta e
-pressione a tecla INICIAR/pausar para dar continuidade
+
+Para utilizar a função de controle remoto é necessário conﬁ gurar sua lava e seca pelo 
+aplicativo. Veriﬁ que o item 10 - Conectividade WiFi e Aplicativo SmartHome.
+
+ÍCONE
+CONFIGURAÇÃO/CARACTERÍSTICAS
+
+Durante o ciclo se você quiser abrir a porta, para retirar ou colocar 
+roupas, pressione a tecla 
+ INICIAR/pausar durante 3 segundos. 
+Este procedimento desbloqueia a porta permitindo que esta 
+seja aberta. Após retirar ou colocar as roupas, feche a porta e 
+pressione a tecla 
+ INICIAR/pausar  para dar continuidade 
 ao programa em operação.
+
 IMPORTANTE
-Em alguns momentos a porta poderá não ser destravada e o aparelho irá emitir um bip
-triplo. Isso acontece para sua proteção. Nos processos de lavagem a água pode estar
-acima do nível da porta, caso isso aconteça, aguarde o nível da água baixar e repita o
-procedimento acima e caso continue travada, aguarde o fi m do ciclo de funcionamento.
+
+Em alguns momentos a porta poderá não ser destravada e o aparelho irá emitir um bip 
+triplo. Isso acontece para sua proteção. Nos processos de lavagem a água pode estar 
+acima do nível da porta, caso isso aconteça, aguarde o nível da água baixar e repita o 
+procedimento acima e caso continue travada, aguarde o ﬁ m do ciclo de funcionamento.
+
 32
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 9 - CONFIGURAÇÃO E CARACTERÍSTICAS DOS PROGRAMAS
-A tabela a seguir mostra as características e as confi gurações possíveis para cada programa.
+
+A tabela a seguir mostra as características e as conﬁ gurações possíveis para cada programa.
+
+Procedimento
+Centrifugação (rpm)
+Temperatura da água (°C)
+Tempo
+Turbo
+Lavagem 
+extra
+Adiar 
+início
+Vapor
+MASTER 
+clean
+Pré 
+lavagem
+Secar
+
+Os parâmetros apresentados são apenas para referência. Os parâmetros reais poderão ser 
+diferentes dos mencionados na tabela.
+
+Higienizar
+800
+---, 600, 1000, 1200, 
+1400
+70
+X
+2:27
+X
+1-24h
+X
+X
+X
+X
+
+Centrifugar
+1000
+---, 600, 800,
+1200, 1400
+X
+X
+0:12
+X
+X
+1-24h
+X
+X
+X
+X
+
+Super ECO
+1000
+---, 600, 800,
+1200, 1400
+---
+20/30/40/50/60
+0:59
+1-24h
+X
+X
+X
+X
+---/20/30/40/60*
+
+Delicado/lã
+600
+---, 800
+40
+---/20/30
+1:07
+X
+1-24h
+X
+X
+X
+X
+
+Edredom
+800
+---, 600, 800
+40
+---/20/30
+2:02
+X
+1-24h
+X
+X
+X
+X
+
+Limpeza 
+do tambor
+X
+X
+60
+X
+1:18
+X
+X
+1-24h
+X
+X
+X
+X
+90*
+1:30*
+
+Secar
+1400
+---, 800,
+1000, 1200
+X
+X
+4:33
+X
+X
+1-24h
+X
+X
+X
+
+Rápido 15/60’
+800
+---, 600
+---
+20/30
+0:15/0:59
+X
+1-24h
+X
+X
+X
+
+Desodorizar
+X
+X
+X
+X
+0:30
+X
+X
+1-24h
+X
+X
+X
+
+Favorito
+O padrão de fábrica para este programa é o “algodão”, porém você pode conﬁ gurá-lo conforme desejar
+
+Descrição
+Padrão
+Opcional
+Padrão
+Opcional
+Padrão
+OPÇÕES EXTRAS
+
+Sintético
+1000
+---, 600, 800, 1200
+40
+---/20/30/50/60
+2:10
+1-24h
+X
+---/20/30/60*
+
+Algodão
+800
+---, 600, 1000, 
+1200,1400
+60
+---/20/30/40/50
+2:56
+1-24h
+
+Mix
+1000
+---, 600, 800,
+1200, 1400
+40
+---/20/30/50/60
+1:47
+1-24h
+
+Pesado/jeans
+1000
+---, 600, 800,
+1200, 1400
+40
+---/20/30/50/60
+2:20
+1-24h
+
+---/20/30/40/90*
+
+---/20/30/60/90*
+
+---/20/30/60 *
+
+NOTA
+
+A de centrifugação e água fria, sem aquecimento 
+no procedimento de temperatura.
+---
+
+*: Aplica-se apenas aos modelos 220V~.
+
+Opção não disponível
+X
+
+Opção disponível
+
 33
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-raceS
-me
-é g r a P val
-RE n T a S el A c M
-ropaV
-r o a ic id ín A i
-me
-a g rt a x v e aL
-obruT
-opmeT
-)C°( augá ad arutarepmeT
-)mpr( oãçagufirtneC
-otnemidecorP
-SARTXE
-SEÕÇPO
-oãrdaP
-lanoicpO
-oãrdaP
-lanoicpO
-oãrdaP
-oãçircseD
-rajesed
-emrofnoc
-ol-árugfi
-noc edop
-êcov
-mérop ,”oãdogla“
-o é amargorp etse
-arap
-acirbáf
-ed
-oãrdap O
-otirovaF
-h42-1
-65:2
-* 0 0 5 9 / / 0 0 4 4 / / 0 0 3 3 / / 0 0 2 2 / / - - - - - -
-06
-,00 0 0 0 1 4 , 1 0 ,0 0 0 6 2 , 1 ---
-008
-oãdoglA
-h42-1
-74:1
-* 0 0 6 9 / / 0 0 5 6 / / 0 0 3 3 / / 0 0 2 2 / / - - - - - -
-04
-,0 0 0 0 8 4 , 1 0 , 0 0 6 0 2 ,- 1 --
-0001
-xiM
-06/05/03/02/---
-X
-h42-1
-01:2
-04
-0021 ,008 ,006 ,---
-0001
-ocitétniS
-*06/03/02/---
-X
-X
-X
-X
-h42-1
-X
-72:2
-X
-07
-,0021 ,0 0 0 0 0 4 1 1 ,006 ,---
-008
-razineigiH
-X
-X
-X
-X
-h42-1
-X
-X
-21:0
-X
-X
-,0 0 0 0 8 4 , 1 0 , 0 0 6 0 2 ,- 1 --
-0001
-ragufirtneC
-X
-X
-X
-h42-1
-X
-X
-33:4
-X
-X
-0 , 0 0 2 0 1 8 ,0 ,- 0 -- 01
-0041
-raceS
-X
-X
-X
-h42-1
-X
-95:0/51:0
-03/02
----
-006 ,---
-008
-’06/51 odipáR
-X
-X
-X
-h42-1
-X
-X
-03:0
-X
-X
-X
-X
-razirodoseD
-X
-X
-X
-X
-h42-1
-95:0
-* 0 0 6 6 / / 0 0 5 4 / / 0 0 4 3 / / 0 0 3 2 / / 0 -- 2 -
----
-,0 0 0 0 8 4 , 1 0 , 0 0 6 0 2 ,- 1 --
-0001
-OCE repuS
-X
-X
-X
-X
-h42-1
-X
-70:1
-03/02/---
-04
-008 ,---
-006
-ãl/odacileD
-h42-1
-02:2
-0 * 6 0 /0 6 5 /0 /0 3 3 /0 /0 2 2 /- / - - - --
-04
-,0 0 0 0 8 4 , 1 0 , 0 0 6 0 2 ,- 1 --
-0001
-snaej/odaseP
-X
-X
-X
-X
-h42-1
-X
-20:2
-03/02/---
-04
-008 ,006 ,---
-008
-moderdE
-X
-X
-X
-X
-h42-1
-X
-X
-* 8 0 1 3 :1 :1
-X
-* 0 0 6 9
-X
-X
-ro a b z m e a p t m o i d L
-.~V022 soledom
-soa
-sanepa
-es-acilpA :*
-ATON
-levínopsid
-oãn
-oãçpO X
-levínopsid
-oãçpO
-res
-oãredop
-siaer
-sortemârap
-sO
-.aicnêrefer
-arap
-sanepa
-oãs
-sodatneserpa
-sortemârap sO
-.alebat
-an sodanoicnem
-sod setnerefid
-otnemiceuqa
-mes ,airf augá
-e
-oãçagufirtnec
-ed A ---
-.arutarepmet
-ed
-otnemidecorp
-on
+
 10 - CONECTIVIDADE WIFI E APLICATIVO SMARTHOME
+
 NOTA
+
 • Aplicativo disponível para os sistemas iOS 9.0 ou superior e Android 4.4 ou superior.
-• A confi guração de acesso à rede da lava e seca requer uma rede WiFi com faixa de
+• A conﬁ guração de acesso à rede da lava e seca requer uma rede WiFi com faixa de 
 frequência de 2,4 GHz. Faixa de frequência de 5 GHz não é compatível.
 • Este modelo não suporta roteador criptografado em protocolo WEP.
+
 10.1 - Instalando o Aplicativo
+
 NOTA
-Certifi que-se que seu celular esteja conectado à sua rede WiFi domestica de 2.4GHz e
+
+Certiﬁ que-se que seu celular esteja conectado à sua rede WiFi domestica de 2.4GHz e 
 seu bluetooth esteja ativo.
+
 IMPORTANTE
+
 SmartHome
-• Utilize o QR Code ao lado para baixar o aplicativo SmartHome
+
+• Utilize o QR Code ao lado para baixar o aplicativo SmartHome 
 (basta abrir a câmera do seu celular e apontar para o QR Code).
-• Com o aplicativo SmartHome instalado, abra o aplicativo e
+
+• Com o aplicativo SmartHome instalado, abra o aplicativo e 
 crie sua conta pessoal.
-10.2 - Confi gurando o Aplicativo
+
+10.2 - Conﬁ gurando o Aplicativo
+
 NOTA
-• É necessário uma conexão de rede WiFi 2.4GHz para a confi guração inicial e comunicação
-com a lava e seca. Uma vez que o acesso à rede já tenha sido confi gurado, o aplicativo
-pode ser utilizado através de rede WiFi e dados móveis, e a lava e seca pode ser controlada
+
+• É necessário uma conexão de rede WiFi 2.4GHz para a conﬁ guração inicial e comunicação 
+com a lava e seca. Uma vez que o acesso à rede já tenha sido conﬁ gurado, o aplicativo 
+pode ser utilizado através de rede WiFi e dados móveis, e a lava e seca pode ser controlada 
 remotamente.
-• Quando sua senha do WiFi for alterada ou o roteador for substituído, você precisará
-confi gurar o acesso à rede novamente.
-• Não é possível confi gurar o acesso à rede enquanto a sua lava e seca estiver com
+•  Quando sua senha do WiFi for alterada ou o roteador for substituído, você precisará 
+conﬁ gurar o acesso à rede novamente.
+• Não é possível conﬁ gurar o acesso à rede enquanto a sua lava e seca estiver com 
 algum programa em andamento.
+
 10.2.1 - Realizando a conexão entre aplicativo e a lava e seca
-É possível adicionar a sua lava e seca por 3 métodos: conexão automática (QR Code), conexão
+
+É possível adicionar a sua lava e seca por 3 métodos: conexão automática (QR Code), conexão 
 dispositivos próximos e conexão com seleção manual na lista de modelos.
+
 Realizando a conexão automática (QR Code)
-1. No aplicativo SmartHome, clique no quadrado superior do canto direito.
+
+1. 
+No aplicativo SmartHome, clique no quadrado superior do canto direito.
+
 2. Escaneie o QR Code que está posicionado na parte frontal do seu produto.
+
 3. Siga as instruções que aparecem na tela do seu dispositivo.
+
 34
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 Realizando a conexão dispositivos próximos
-1. Ligue a lava e seca e pressione a tecla função até que “AP” apareça no display da
+
+1. 
+Ligue a lava e seca e pressione a tecla 
+ função até que “AP” apareça no display da 
 máquina.
-2. Na tela inicial do aplicativo SmartHome, aparecerá automaticamente os dispositivos
-próximos prontos para conexão. Esse processo pode demorar alguns segundos. Caso
+
+2. Na tela inicial do aplicativo SmartHome, aparecerá automaticamente os dispositivos 
+próximos prontos para conexão. Esse processo pode demorar alguns segundos. Caso 
 seja necessário, é possível arrastar para baixo para atualizar a tela.
+
 3. Siga as instruções que aparecem na tela do seu dispositivo.
+
 NOTA
-Esta opção pode ser usada uma vez por dia quando a lavadora já não estiver conectada
+
+Esta opção pode ser usada uma vez por dia quando a lavadora já não estiver conectada 
 a algum dispositivo.
+
 Realizando a conexão com seleção manual na lista de modelos
-1. No seu aplicativo SmartHome, clique em (+).
+
+1. 
+No seu aplicativo SmartHome, clique em (+).
+
 2. Selecione a categoria “máquina de lavar”.
+
 3. Selecione o modelo da sua lava e seca na lista de modelos disponíveis.
+
 4. Siga as instruções que aparecem na tela do seu dispositivo.
+
 NOTA
+
 O LED indicador de WiFi pode piscar de 3 modos:
 • Piscar rapidamente: indica que a lava e seca está tentando estabelecer uma conexão WiFi.
 • Piscar lentamente: indica que a lava e seca está visível para uma conexão com o aplicativo.
 • Ligado constante: indica que a lava e seca está conectada a uma rede WiFi.
+
 10.3 - Ativando o Controle Remoto
-Para controlar sua lava e seca pelo aplicativo SmartHome, pressione a tecla TURBO para
-ativar o controle remoto. A partir deste momento a porta da lava e seca permanecerá travada.
+
+Para controlar sua lava e seca pelo aplicativo SmartHome, pressione a tecla  TURBO para 
+ativar o controle remoto. A partir deste momento a porta da lava e seca permanecerá travada. 
 Agora você pode controlar e monitorar sua lava e seca remotamente.
+
 NOTA
-• Você pode deixar sua lava e seca preparada para inciar o processo remotamente
-utilizando a função de controle remoto. Quando ativada essa função, a lava e seca
-fi cara aguardando um comando através do aplicativo indefi nidamente e a porta
+
+• Você pode deixar sua lava e seca preparada para inciar o processo remotamente 
+utilizando a função de controle remoto. Quando ativada essa função, a lava e seca 
+ﬁ cara aguardando um comando através do aplicativo indeﬁ nidamente e a porta 
 permanecerá travada.
-• Mesmo quando sua lava e seca for operada de forma física (sem utilização do aplicativo),
+
+• Mesmo quando sua lava e seca for operada de forma física (sem utilização do aplicativo), 
 você ainda poderá utilizar o aplicativo SmartHome para monitorar o progresso do trabalho.
-• Em caso de falta de energia, a função controle remoto será perdida, porém ao restabelecer
-a energia, você poderá continuar monitorando via aplicativo o ciclo, que retorna de
+
+• Em caso de falta de energia, a função controle remoto será perdida, porém ao restabelecer 
+a energia, você poderá continuar monitorando via aplicativo o ciclo, que retorna de 
 onde parou.
+
 35
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 11 - LIMPEZA E MANUTENÇÃO
+
 PERIGO
+
 Risco de choque elétrico!
-NUNCA realize nenhuma limpeza ou manutenção no equipamento energizado. Retire o
+NUNCA realize nenhuma limpeza ou manutenção no equipamento energizado. Retire o 
 plugue da tomada, desligue o disjuntor e o abastecimento de água da sua lava e seca.
+
 IMPORTANTE
-Os cuidados no manuseio, utilização, limpeza e manutenção podem prolongar a vida
+
+Os cuidados no manuseio, utilização, limpeza e manutenção podem prolongar a vida 
 útil da sua lava e seca.
 • NUNCA despeje água diretamente em qualquer parte do aparelho para lavá-lo.
-• NUNCA utilize fl uídos infl amáveis (álcool, querosene, gasolina, ácidos, sabões amoníacos,
-etc) ou produtos que liberem vapores químicos (tóxicos, corrosivos, com risco de
-explosão), ácidos ou abrasivos (saponáceos, esponjas ou lã de aço, etc.) para limpeza
+• NUNCA utilize ﬂ uídos inﬂ amáveis (álcool, querosene, gasolina, ácidos, sabões amoníacos, 
+etc) ou produtos que liberem vapores químicos (tóxicos, corrosivos, com risco de 
+explosão), ácidos ou abrasivos (saponáceos, esponjas ou lã de aço, etc.) para limpeza 
 da sua lava e seca.
 • NUNCA utilize máquinas automáticas para limpeza da sua lava e seca.
+
 Limpeza e manutenção externa do gabinete
-A limpeza externa do gabinete da sua lava e seca pode ser realizada com um pano úmido
-utilizando sabão neutro diluído em água. Se houver excesso de sabão, utilize o pano para
-removê-lo. Não utilize objetos afi ados, abrasivos ou químicos para realizar a limpeza.
-Limpeza do tambor
-A lava e seca Midea possui um programa para realizar a autolimpeza do cesto e dos demais
-componentes do sistema de lavagem. Para uma melhor descontaminação pode-se adicionar, em
-cada ciclo de limpeza do tambor, uma pequena quantidade de água sanitária (máximo 30ml).
+A limpeza externa do gabinete da sua lava e seca pode ser realizada com um pano úmido 
+utilizando sabão neutro diluído em água. Se houver excesso de sabão, utilize o pano para 
+removê-lo. Não utilize objetos aﬁ ados, abrasivos ou químicos para realizar a limpeza.
+
+Limpeza do tambor 
+A lava e seca Midea possui um programa para realizar a autolimpeza do cesto e dos demais 
+componentes do sistema de lavagem. Para uma melhor descontaminação pode-se adicionar, em 
+cada ciclo de limpeza do tambor, uma pequena quantidade de água sanitária (máximo 30ml). 
 Recomenda-se realizar o ciclo de auto limpeza aproximadamente a cada 100 ciclos de lavagem.
-Se for necessário realizar uma limpeza manual, utilize um pano macio com sabão neutro
-diluído em água. Não utilize esponja de aço, materiais abrasivos, afi ados, produtos químicos.
-Anticongelamento
-Em regiões de temperatura muito baixa em que pode haver o congelamento da água, é
-recomendado que após cada uso da sua lava e seca seja retirada toda a água das mangueiras
+
+Se for necessário realizar uma limpeza manual, utilize um pano macio com sabão neutro 
+diluído em água. Não utilize esponja de aço, materiais abrasivos, aﬁ ados, produtos químicos.
+
+Anticongelamento 
+Em regiões de temperatura muito baixa em que pode haver o congelamento da água, é 
+recomendado que após cada uso da sua lava e seca seja retirada toda a água das mangueiras 
 e da bomba de drenagem. Para realizar este procedimento siga os passos abaixo:
-1. Feche a torneira de abastecimento de água.
-2. Inicie qualquer programa de lavagem por 30 segundos. Este procedimento faz com que
+
+1. 
+Feche a torneira de abastecimento de água.
+2. 
+Inicie qualquer programa de lavagem por 30 segundos. Este procedimento faz com que 
 a lava e seca drene a água nas mangueiras.
-3. Após 30 segundos acione o pause e desligue.
-4. Remova manualmente o resíduo de água na mangueira de drenagem e de abastecimento.
-5. Abra o fi ltro da bomba de drenagem e, utilizando a mangueira de dreno do fi ltro, remova
+3. 
+Após 30 segundos acione o pause e desligue.
+4. 
+Remova manualmente o resíduo de água na mangueira de drenagem e de abastecimento.
+5. 
+Abra o ﬁ ltro da bomba de drenagem e, utilizando a mangueira de dreno do ﬁ ltro, remova 
 o resíduo de água da bomba.
-6. No fechamento, encaixe corretamente os componentes da bomba e mangueira de dreno
-do fi ltro para evitar vazamentos.
+6. 
+No fechamento, encaixe corretamente os componentes da bomba e mangueira de dreno 
+do ﬁ ltro para evitar vazamentos.
+
 PERIGO
-Para evitar queimaduras este procedimento deve ser realizado após a água quente do
+
+Para evitar queimaduras este procedimento deve ser realizado após a água quente do 
 interior do aparelho ter resfriado.
+
 36
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 Limpeza do dispenser de detergente e amaciante
-1. Puxe o dispenser para fora (“a” - fi gura 1).
-2. Pressione a seta localizada na parte b 1
-superior da tampa do compartimento
-para amaciante (“b” - fi gura 1) dentro do
+
+1. 
+Puxe o dispenser para fora (“a” - ﬁ gura 1).
+
+2. Pressione a seta localizada na parte 
+superior da tampa do compartimento 
+para amaciante (“b” - ﬁ gura 1) dentro do 
 dispenser.
-3. Puxe a tampa para cima removendo-a do
+
+1
+
+b
+
+3.  Puxe a tampa para cima removendo-a do 
 compartimento do amaciante.
-4. Efetue a limpeza com água corrente e
+
+4. Efetue a limpeza com água corrente e 
+uma escova pequena, certifique-se de 
+que não ﬁ quem depositados resquícios 
+de detergente nos compartimentos do 
+dispenser (ﬁ gura 2).
+
 a
-uma escova pequena, certifique-se de
-que não fi quem depositados resquícios
-de detergente nos compartimentos do
-dispenser (fi gura 2). 2
+
+2
+
 NOTA
-Remova qualquer resíduo de sabão
+
+Remova qualquer resíduo de sabão 
 existente na parte interna do dispenser.
-5. Efetue a limpeza da parte interna do
-aparelho, onde se encaixa o dispenser,
-utilizando um pano úmido e/ou uma
-escova macia (fi gura 3).
-6. Recoloque a tampa do amaciante fazendo
-com que esta encaixe corretamente no
-pino guia do compartimento. 3
-7. Empurre o dispenser para sua posição de
-operação no aparelho (fi gura 4).
-8. Para melhor resultado da limpeza da lava
+
+5. Efetue a limpeza da parte interna do 
+aparelho, onde se encaixa o dispenser, 
+utilizando um pano úmido e/ou uma 
+escova macia (ﬁ gura 3).
+
+6. Recoloque a tampa do amaciante fazendo 
+com que esta encaixe corretamente no 
+pino guia do compartimento.
+
+3
+
+7. Empurre o dispenser para sua posição de 
+operação no aparelho (ﬁ gura 4).
+
+8. Para melhor resultado da limpeza da lava 
 e seca utilize o ciclo limpeza do tambor
-após a limpeza do compartimento do
+após a limpeza do compartimento do 
 dispenser.
+
 4
+
 37
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-Limpeza dos fi ltros de água
-Quando ocorre o entupimento dos fi ltros da mangueira de abastecimento ou na entrada de
-água da sua lava e seca, pode haver demora ou não completar o processo de enchimento
-para lavagem. Verifi que os fi ltros frequentemente e faça a limpeza para garantir que a
+
+Limpeza dos ﬁ ltros de água
+
+Quando ocorre o entupimento dos ﬁ ltros da mangueira de abastecimento ou na entrada de 
+água da sua lava e seca, pode haver demora ou não completar o processo de enchimento 
+para lavagem. Veriﬁ que os ﬁ ltros frequentemente e faça a limpeza para garantir que a 
 pressão de água adequada chegue até sua lava e seca.
-A. Limpeza do fi ltro da mangueira de abastecimento de água
-1. Feche o abastecimento de água. 1
-2. Remova a mangueira do ponto de abastecimento
-(“a” - fi g. 1).
+
+A. Limpeza do ﬁ ltro da mangueira de abastecimento de água
+
+1. Feche o abastecimento de água.
+
+1
+
+2. Remova a mangueira do ponto de abastecimento 
+(“a” - ﬁ g. 1).
+
 NOTA
+
 a
-Tenha um pano ou recipiente para conter uma
-pequena quantidade de água que fi cará no
-interior da mangueira ao ser desconectada
+
+Tenha um pano ou recipiente para conter uma 
+pequena quantidade de água que ﬁ cará no 
+interior da mangueira ao ser desconectada 
 da sua lava e seca ou da torneira.
+
 b
-3. Limpe o fi ltro com água corrente até que fi que
-totalmente desobstruído e isento de partículas
-(“b” - fi g. 1). Evite que a sujeira seja jogada para
+
+3. Limpe o ﬁ ltro com água corrente até que ﬁ que 
+totalmente desobstruído e isento de partículas 
+(“b” - ﬁ g. 1). Evite que a sujeira seja jogada para 
 o interior da mangueira.
+
 4. Reconecte a mangueira de água.
+
 NOTA
-É permitido circular água no sentido contrário de utilização da mangueira de abastecimento
-para remover a sujeira do fi ltro.
-B. Limpeza do fi ltro de entrada de água
+
+É permitido circular água no sentido contrário de utilização da mangueira de abastecimento 
+para remover a sujeira do ﬁ ltro.
+
+B. Limpeza do ﬁ ltro de entrada de água
+
 2
-3. Solte a mangueira de água conectada ao
-aparelho (fi g. 2).
-4. Retire o fi ltro com a ajuda de um alicate de
-bico de ponta fi na e longa.
-5. Limpe o fi ltro com água corrente e recoloque-o
+
+3. Solte a mangueira de água conectada ao 
+aparelho (ﬁ g. 2).
+
+4. Retire o ﬁ ltro com a ajuda de um alicate de 
+bico de ponta ﬁ na e longa.
+
+5. Limpe o ﬁ ltro com água corrente e recoloque-o 
 no aparelho.
+
 6. Reconecte a mangueira de água.
-7. Abra a torneira e certifi que-se de que não haja
+
+7. Abra a torneira e certiﬁ que-se de que não haja 
 vazamento de água.
+
 38
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 Limpeza das aberturas de escoamento de água e da vedação da porta
-A vedação da porta da lava e seca possui
-aberturas para escoamento da água de
-lavagem. Estas aberturas poderão reter
-fiapos e pequenos materiais após a
+
+A vedação da porta da lava e seca possui 
+aberturas para escoamento da água de 
+lavagem. Estas aberturas poderão reter 
+fiapos e pequenos materiais após a 
 lavagem das roupas.
-A sua Lava e Seca Midea é equipada
-com um AUTO SPRAY que realiza a
-autolimpeza da abertura para escoamento
-de água da vedação da porta a cada ciclo
-de lavagem. Essa limpeza garante que
-a água continue fluindo normalmente
+
+A sua Lava e Seca Midea é equipada 
+com um AUTO SPRAY que realiza a 
+autolimpeza da abertura para escoamento 
+de água da vedação da porta a cada ciclo 
+de lavagem. Essa limpeza garante que 
+a água continue fluindo normalmente 
 mesmo após muitos ciclos.
+
 NOTA
-É recomendado que seja feita a
-verifi cação e limpeza periodicamente
-de toda a vedação da porta. NOTA
-• O ciclo de secagem, devido ao grande
-Para fazer a limpeza manual da vedação fluxo de ar, tem tendência de soltar
-da porta siga os passos abaixo: mais fiapos das roupas. Se este ciclo
-1. Abra a porta da sua Lava e Seca Midea. é utilizado com bastante frequência, é
-recomendado realizar a autolimpeza com
-2. Com um pano macio faça a limpeza
+
+É recomendado que seja feita a 
+veriﬁ cação e limpeza periodicamente 
+de toda a vedação da porta.
+
+NOTA
+
+• O ciclo de secagem, devido ao grande 
+fluxo de ar, tem tendência de soltar 
+mais fiapos das roupas. Se este ciclo 
+é utilizado com bastante frequência, é 
+recomendado realizar a autolimpeza com 
 maior frequência.
-ao redor de toda a vedação da porta.
-• Um dos fatores que pode causar a
-3. Se houver algum material obstruindo
-formação de odores no aparelho são
-os canais de escoamento da vedação
-vedações (borrachas) mal limpas. É
-desobstrua e faça a limpeza com o
+• Um dos fatores que pode causar a 
+formação de odores no aparelho são 
+vedações (borrachas) mal limpas. É 
 recomendado a limpeza periódica.
+
+Para fazer a limpeza manual da vedação 
+da porta siga os passos abaixo:
+
+1. Abra a porta da sua Lava e Seca Midea.
+
+2. Com um pano macio faça a limpeza 
+ao redor de toda a vedação da porta.
+
+3. Se houver algum material obstruindo 
+os canais de escoamento da vedação 
+desobstrua e faça a limpeza com o 
 pano macio.
+
 Limpeza do sistema de secagem
-A sua lava e seca Midea possui um sistema autônomo de limpeza do duto de secagem. Em
-utilizações severas ou em condições com excesso de espuma pode ser necessário realizar
-limpeza manual do sistema de secagem. Neste caso entre em contato com um agente
+
+A sua lava e seca Midea possui um sistema autônomo de limpeza do duto de secagem. Em 
+utilizações severas ou em condições com excesso de espuma pode ser necessário realizar 
+limpeza manual do sistema de secagem. Neste caso entre em contato com um agente 
 autorizado Midea para realizar essa limpeza..
+
 Preparando sua lava e seca para longo período sem utilização
-Quando a lava e seca não for ser utilizada por longos períodos, recomenda-se fazer um
-ciclo de lavagem com a lava e seca vazia e então retirá-la da tomada de alimentação
-elétrica, desligar a fonte de abastecimento de água e deixar a porta entreaberta. Isso fará
+
+Quando a lava e seca não for ser utilizada por longos períodos, recomenda-se fazer um 
+ciclo de lavagem com a lava e seca vazia e então retirá-la da tomada de alimentação 
+elétrica, desligar a fonte de abastecimento de água e deixar a porta entreaberta. Isso fará 
 com que a vedação da porta tenha maior durabilidade e evitará a formação de odores.
+
 39
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-Limpeza do fi ltro da bomba de drenagem
+
+Limpeza do ﬁ ltro da bomba de drenagem
+
 IMPORTANTE
-O fi ltro da bomba de drenagem não é um fi ltro de fi apos de roupas. Os fi apos poderão
-fi car presos na vedação da porta, que deve ser limpa regularmente.
-O fi ltro da bomba de drenagem é responsável por reter pequenos objetos, tais como
-moedas, anéis, botões, etc e/ou outros materiais estranhos provenientes da lavagem.
-Para assegurar o correto funcionamento do aparelho e garantir uma limpeza de melhor
-qualidade, procure verifi car regularmente o fi ltro.
-Para efetuar a limpeza proceda da seguinte maneira (a fi gura indica o passo a passo):
+
+O ﬁ ltro da bomba de drenagem não é um ﬁ ltro de ﬁ apos de roupas. Os ﬁ apos poderão 
+ﬁ car presos na vedação da porta, que deve ser limpa regularmente.
+
+O ﬁ ltro da bomba de drenagem é responsável por reter pequenos objetos, tais como 
+moedas, anéis, botões, etc e/ou outros materiais estranhos provenientes da lavagem. 
+Para assegurar o correto funcionamento do aparelho e garantir uma limpeza de melhor 
+qualidade, procure veriﬁ car regularmente o ﬁ ltro.
+Para efetuar a limpeza proceda da seguinte maneira (a ﬁ gura indica o passo a passo):
+
 PERIGO
-Antes de iniciar a limpeza do fi ltro da bomba é recomendado fazer a interrupção do
+
+Antes de iniciar a limpeza do ﬁ ltro da bomba é recomendado fazer a interrupção do 
 abastecimento de água e desligar a energia elétrica da sua lava e seca.
-1. Pressione a tampa do fi ltro para abrir (“a”
-na fi gura ao lado). a b
-2. Para evitar molhar o chão, posicione um
-recipiente próximo a tampa do fi ltro. Retire
-a mangueira de dreno do fi ltro do suporte.
-(“b” na fi gura ao lado).
-3. Remova a tampa da mangueira do fi ltro
-e deixe toda água escorrer no recipiente.
-(“c” na fi gura ao lado).
-4. Gire a tampa do filtro da bomba de c d
-drenagem (“d” na fi gura ao lado) e puxe-a
+
+1. 
+Pressione a tampa do ﬁ ltro para abrir (“a” 
+na ﬁ gura ao lado).
+
+a
+
+b
+
+2. Para evitar molhar o chão, posicione um 
+recipiente próximo a tampa do ﬁ ltro. Retire 
+a mangueira de dreno do ﬁ ltro do suporte. 
+(“b” na ﬁ gura ao lado).
+
+3. Remova a tampa da mangueira do ﬁ ltro 
+e deixe toda água escorrer no recipiente. 
+(“c” na ﬁ gura ao lado).
+
+c
+
+d
+
+4. Gire a tampa do filtro da bomba de 
+drenagem (“d” na ﬁ gura ao lado) e puxe-a 
 para fora com cuidado.
-5. Retire toda sujeira, materiais ou objetos
-que estão trancados no fi ltro da bomba
-(“e” na fi gura ao lado).
-6. Efetue a limpeza do fi ltro da bomba com
-água corrente e uma escova pequena. e f
-7. Posicione novamente a mangueira do
+
+5. Retire toda sujeira, materiais ou objetos 
+que estão trancados no ﬁ ltro da bomba 
+(“e” na ﬁ gura ao lado).
+
+6. Efetue a limpeza do ﬁ ltro da bomba com 
+água corrente e uma escova pequena.
+
+e
+
+f
+
+7. Posicione novamente a mangueira do 
 dreno no local apropriado.
-8. Recoloque o filtro da bomba de volta
-girando-o no sentido horário observando
-a posição de encaixe correta e verifi que se
-não há vazamentos. (“f” na fi gura ao lado).
+
+8. Recoloque o filtro da bomba de volta 
+girando-o no sentido horário observando 
+a posição de encaixe correta e veriﬁ que se 
+não há vazamentos. (“f” na ﬁ gura ao lado).
+
 PERIGO
-Quando o aparelho estiver em operação, dependendo do programa selecionado, pode
-haver água quente na bomba e no compartimento do fi ltro. Nunca remova a tampa do
-fi ltro de drenagem da bomba durante o procedimento de lavagem, sempre espere até
-o aparelho fi nalizar o ciclo, garantindo assim que toda água tenha sido drenada. Após a
-limpeza, ao recolocar a tampa, certifi que-se de que ela está fechada e travada fi rmemente.
+
+Quando o aparelho estiver em operação, dependendo do programa selecionado, pode 
+haver água quente na bomba e no compartimento do ﬁ ltro. Nunca remova a tampa do 
+ﬁ ltro de drenagem da bomba durante o procedimento de lavagem, sempre espere até 
+o aparelho ﬁ nalizar o ciclo, garantindo assim que toda água tenha sido drenada. Após a 
+limpeza, ao recolocar a tampa, certiﬁ que-se de que ela está fechada e travada ﬁ rmemente.
+
 40
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 Liberação de emergência da porta
-Em caso de falta de energia ou outras circunstâncias, sua Lava e Seca Midea possui um
+
+Em caso de falta de energia ou outras circunstâncias, sua Lava e Seca Midea possui um 
 dispositivo de emergência para a abertura da porta. Siga as instruções a seguir:
-1. Pressione a tampa do fi ltro para abrir
-(“a” e “b” na fi gura ao lado). a b
-2. Insira uma chave de fenda (ou outra
-ferramenta não afiada) no cabo de
-tração da porta (“c” na fi gura ao lado).
-3. Puxe o cabo de tração da porta para
-baixo (“d” na fi gura ao lado).
+
+1. 
+Pressione a tampa do ﬁ ltro para abrir 
+(“a” e “b” na ﬁ gura ao lado).
+
+a
+
+b
+
+2. Insira uma chave de fenda (ou outra 
+ferramenta não afiada) no cabo de 
+tração da porta (“c” na ﬁ gura ao lado).
+
+3. Puxe o cabo de tração da porta para 
+baixo (“d” na ﬁ gura ao lado).
+
 PERIGO
-A liberação de emergência da c d
-porta não é recomendada durante
-o funcionamento dos programas de
-lavagem, pois a água quente poderá
+
+A liberação de emergência da 
+porta não é recomendada durante 
+o funcionamento dos programas de 
+lavagem, pois a água quente poderá 
 causar danos e queimaduras.
+
+c
+d
+
 41
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 12 - SOLUÇÃO DE PROBLEMAS
-Caso o produto apresente algum problema de funcionamento, antes de ligar para o SAC
-Midea é aconselhável que verifi que a tabela abaixo com os problemas mais frequentes,
-causas prováveis e soluções propostas. Caso o problema identifi cado não seja nenhum destes
-abaixo ou então a solução sugerida não seja sufi ciente, entre em contato com o SAC Midea.
-PROBLEMA CAUSA PROVÁVEL VERIFICAÇÃO/SOLUÇÃO
-Lava e seca não liga • Falta de energia • Verifi car se há energia elétrica no
-Signifi ca que a lava elétrica na tomada local e na tomada em que a lava e
-e seca não emite onde a lava e seca seca está sendo conectada.
-nenhum sinal sonoro está ligada. • Verifique se a tomada está
-ou luminoso quando o • Lava e seca não está corretamente energizada e não
-botão LIGAR/desligar ligada corretamente há mau contato.
-é pressionado. em uma tomada. • Verifi car se o cabo de alimentação
-• Botão LIGAR/desligar está rompido, dobrado, quebrado,
-não está funcionando etc.
-corretamente
+
+Caso o produto apresente algum problema de funcionamento, antes de ligar para o SAC 
+Midea é aconselhável que veriﬁ que a tabela abaixo com os problemas mais frequentes, 
+causas prováveis e soluções propostas. Caso o problema identiﬁ cado não seja nenhum destes 
+abaixo ou então a solução sugerida não seja suﬁ ciente, entre em contato com o SAC Midea.
+
+PROBLEMA
+CAUSA PROVÁVEL
+VERIFICAÇÃO/SOLUÇÃO
+
+• Veriﬁ car se há energia elétrica no 
+local e na tomada em que a lava e 
+seca está sendo conectada.
+
+• Falta de energia 
+elétrica na tomada 
+onde a lava e seca 
+está ligada.
+
+Lava e seca não liga
+
+Signiﬁ ca que a lava 
+e seca não emite 
+nenhum sinal sonoro 
+ou luminoso quando o 
+botão LIGAR/desligar 
+é pressionado.
+
+• Verifique se a tomada está 
+corretamente energizada e não 
+há mau contato.
+
+• Lava e seca não está 
+ligada corretamente 
+em uma tomada.
+
+• Veriﬁ car se o cabo de alimentação 
+está rompido, dobrado, quebrado, 
+etc.
+
+• Botão LIGAR/desligar 
+não está funcionando 
+corretamente 
 (travado).
-Não lava • Falta de abastecimento • Verifi car o correto abastecimento
-Signifi ca que a lava de água no produto de água conforme indicado neste
-e seca liga, permite (alarme no painel - E10) manual.
-selecionar programas • Baixa pressão de água • Verificar se há alguma roupa
-mas não inicia a no abastecimento da ou objeto impedindo o correto
-lavagem/secagem. lava e seca (alarme no fechamento da porta.
-painel - E10) • Retirar o plugue da tomada.
-• Porta não trava porque Remover as roupas do interior
-não está corretamente do cesto e girá-lo com a mão
-fechada (alarme no pelo menos uma volta completa.
-painel - E30) Reconectar a lava e seca na
-• Excesso de roupa no tomada e reiniciar o processo
-cesto gerando alta de lavagem. Caso haja água
-corrente no motor no interior do cesto realizar o
-(alarme no painel - E52) processo de drenagem conforme
-indicado neste manual.
-• Giro do cesto pesado
-ou bloqueado por
-alguma roupa ou objeto
-(alarme no painel - E52)
-42
-MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-PROBLEMA CAUSA PROVÁVEL VERIFICAÇÃO/SOLUÇÃO
-Não seca • Falta de abastecimento • Verifi car o correto abastecimento
-Signifi ca que a lava de água no produto de água conforme indicado neste
-e seca está ligando e (alarme no painel - E10) manual.
-lavando as roupas, e • Seleção incorreta • Verificar se o programa
-que após os ciclos com de programa (sem selecionado possui ciclo de
-secagem a roupa ainda secagem) secagem de roupas conforme a
-está muito molhada. • Excesso de roupa no tabela de programas.
-cesto • Verifique se está correta a
-quantidade de roupa para o
-processo de secagem de acordo
-com a capacidade da lava e seca.
-Ruído anormal durante • Não remoção dos • Verificar se os parafusos de
-o funcionamento parafusos de transporte transporte foram removidos da
-Signifi ca que a lava (4 unidades) parte traseira conforme o subitem
-e seca durante o • Nivelamento incorreto 3.4 - Parafusos de Transporte.
-funcionamento dos do produto • Verifi car o correto nivelamento da
-processos de lavagem/ • Instabilidade do lava e seca conforme o subitem
-secagem está emitindo produto (pés da 3.6 - Nivelamento e Ajuste dos
-ruído anormal. lava e seca não Pés Reguláveis.
-foram corretamente • Verificar o ajuste dos pés
-nivelados) niveladores a fi m de que todos
-• Objetos soltos no fi quem fi rmemente apoiados.
-interior do cesto • Retirar o plugue da tomada.
-durante a lavagem/ Remover as roupas do interior
-secagem do cesto e girá-lo com a mão
-pelo menos uma volta completa.
-Reconectar a lava e seca na tomada
-e reiniciar o processo de lavagem.
-Caso haja água no interior do cesto
-realizar o processo de drenagem
-conforme conforme indicado neste
+
+• Veriﬁ car o correto abastecimento 
+de água conforme indicado neste 
 manual.
+
+• Falta de abastecimento 
+de água no produto 
+(alarme no painel - E10)
+
+Não lava
+
+Signiﬁ ca que a lava 
+e seca liga, permite 
+selecionar programas 
+mas não inicia a 
+lavagem/secagem.
+
+• Verificar se há alguma roupa 
+ou objeto impedindo o correto 
+fechamento da porta.
+
+• Baixa pressão de água 
+no abastecimento da 
+lava e seca (alarme no 
+painel - E10)
+
+• Retirar o plugue da tomada. 
+Remover as roupas do interior 
+do cesto e girá-lo com a mão 
+pelo menos uma volta completa. 
+Reconectar a lava e seca na 
+tomada e reiniciar o processo 
+de lavagem. Caso haja água 
+no interior do cesto realizar o 
+processo de drenagem conforme 
+indicado neste manual.
+
+• Porta não trava porque 
+não está corretamente 
+fechada (alarme no 
+painel - E30)
+
+• Excesso de roupa no 
+cesto gerando alta 
+corrente no motor 
+(alarme no painel - E52)
+
+• Giro do cesto pesado 
+ou bloqueado por 
+alguma roupa ou objeto 
+(alarme no painel - E52)
+
+42
+
+MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
+PROBLEMA
+CAUSA PROVÁVEL
+VERIFICAÇÃO/SOLUÇÃO
+
+• Veriﬁ car o correto abastecimento 
+de água conforme indicado neste 
+manual.
+
+• Falta de abastecimento 
+de água no produto 
+(alarme no painel - E10)
+
+Não seca
+
+Signiﬁ ca que a lava 
+e seca está ligando e 
+lavando as roupas, e 
+que após os ciclos com 
+secagem a roupa ainda 
+está muito molhada.
+
+• Verificar se o programa 
+selecionado possui ciclo de 
+secagem de roupas conforme a 
+tabela de programas.
+
+• Seleção incorreta 
+de programa (sem 
+secagem)
+
+• Excesso de roupa no 
+cesto
+
+• Verifique se está correta a 
+quantidade de roupa para o 
+processo de secagem de acordo 
+com a capacidade da lava e seca.
+
+• Verificar se os parafusos de 
+transporte foram removidos da 
+parte traseira conforme o subitem 
+3.4 - Parafusos de Transporte.
+
+• Não remoção dos 
+parafusos de transporte 
+(4 unidades)
+
+Ruído anormal durante 
+o funcionamento
+
+Signiﬁ ca que a lava 
+e seca durante o 
+funcionamento dos 
+processos de lavagem/
+secagem está emitindo 
+ruído anormal.
+
+• Nivelamento incorreto 
+do produto
+
+• Veriﬁ car o correto nivelamento da 
+lava e seca conforme o subitem 
+3.6 - Nivelamento e Ajuste dos 
+Pés Reguláveis.
+
+• Instabilidade do 
+produto (pés da 
+lava e seca não 
+foram corretamente 
+nivelados)
+
+• Verificar o ajuste dos pés 
+niveladores a ﬁ m de que todos 
+ﬁ quem ﬁ rmemente apoiados.
+
+• Objetos soltos no 
+interior do cesto 
+durante a lavagem/
+secagem
+
+• Retirar o plugue da tomada. 
+Remover as roupas do interior 
+do cesto e girá-lo com a mão 
+pelo menos uma volta completa. 
+Reconectar a lava e seca na tomada 
+e reiniciar o processo de lavagem. 
+Caso haja água no interior do cesto 
+realizar o processo de drenagem 
+conforme conforme indicado neste 
+manual.
+
 43
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 12 - SOLUÇÃO DE PROBLEMAS (Continuação)
-PROBLEMA CAUSA PROVÁVEL VERIFICAÇÃO/SOLUÇÃO
-Sabão ou amaciante • Baixa pressão de água • Verifi car o correto
-não desce no abastecimento da abastecimento de água
-Signifi ca que a lava e seca (alarme no conforme indicado neste manual.
-lava e seca opera painel - E10) • Remover o dispenser, despejar
-normalmente mas • Amaciante/sabão o amaciante/sabão em outro
-que após o término muito viscoso recipiente adicionando um
-do processo de pouco de água para diluí-lo.
-lavagem/secagem o Despejar de volta o líquido
-sabão e/ou amaciante misturado no dispenser,
-ainda estão na gaveta recolocá-lo na lava e seca e
-do dispenser. seguir com a lavagem.
-Vazamento de água e/ • Uso de sabão em • Realizar o processo de autolimpeza
-ou sabão excesso (sem adição de sabão ou outro
-Signifi ca que a lava • Mangueira do sabão) até que seja possível
-e seca liga e opera dispenser obstruída/ não perceber mais formação
-normalmente e suja de espuma no interior da lava e
-durante os processos • Vedação da porta seca. Reduzir signifi cativamente
-de lavagem/secagem danifi cada a quantidade de sabão utilizada
-há vazamento de em cada processo de lavagem.
-sabão pelo dispenser, • Remover o dispenser e realizar
-porta, parte traseira ou a limpeza conforme o item 11 -
-inferior. Limpeza e Manutenção.
-• Verificar se não há roupas ou
-objetos impedindo a correta
+
+PROBLEMA
+CAUSA PROVÁVEL
+VERIFICAÇÃO/SOLUÇÃO
+
+• Veriﬁ car o correto 
+abastecimento de água 
+conforme indicado neste manual.
+
+• Baixa pressão de água 
+no abastecimento da 
+lava e seca (alarme no 
+painel - E10)
+
+Sabão ou amaciante 
+não desce
+
+Signiﬁ ca que a 
+lava e seca opera 
+normalmente mas 
+que após o término 
+do processo de 
+lavagem/secagem o 
+sabão e/ou amaciante 
+ainda estão na gaveta 
+do dispenser.
+
+• Remover o dispenser, despejar 
+o amaciante/sabão em outro 
+recipiente adicionando um 
+pouco de água para diluí-lo. 
+Despejar de volta o líquido 
+misturado no dispenser, 
+recolocá-lo na lava e seca e 
+seguir com a lavagem.
+
+• Amaciante/sabão 
+muito viscoso
+
+• Realizar o processo de autolimpeza 
+(sem adição de sabão ou outro 
+sabão) até que seja possível 
+não perceber mais formação 
+de espuma no interior da lava e 
+seca. Reduzir signiﬁ cativamente 
+a quantidade de sabão utilizada 
+em cada processo de lavagem.
+
+• Uso de sabão em 
+excesso
+
+Vazamento de água e/
+ou sabão
+
+• Mangueira do 
+dispenser obstruída/
+suja
+
+Signiﬁ ca que a lava 
+e seca liga e opera 
+normalmente e 
+durante os processos 
+de lavagem/secagem 
+há vazamento de 
+sabão pelo dispenser, 
+porta, parte traseira ou 
+inferior.
+
+• Vedação da porta 
+daniﬁ cada
+
+• Remover o dispenser e realizar 
+a limpeza conforme o item 11 - 
+Limpeza e Manutenção.
+
+• Verificar se não há roupas ou 
+objetos impedindo a correta 
 vedação da porta no fechamento.
-• Verifi car se a gaxeta de vedação
-da porta está danifi cada/furada/
+
+• Veriﬁ car se a gaxeta de vedação 
+da porta está daniﬁ cada/furada/
 rasgada.
-Porta não abre • Nível muito alto de • Verifi que se a bomba de drenagem
-Signifi ca que a água dentro da lava e está funcionando normalmente.
-lava e seca está seca (alarme no painel Realize a drenagem da água
-funcionando - E21) utilizando a mangueira de dreno da
-normalmente e que • Alta temperatura no bomba e verifi que se não há nenhum
-após o processo de interior da lava e seca objeto bloqueando ou impedindo o
-lavagem/secagem correto funcionamento da bomba.
-a porta continua • A sua Lava e Seca Midea impede a
-travada impedindo a abertura da porta se a temperatura
-retirada das roupas. no interior do cesto não for segura.
-Aguarde a temperatura reduzir e
+
+• Veriﬁ que se a bomba de drenagem 
+está funcionando normalmente. 
+Realize a drenagem da água 
+utilizando a mangueira de dreno da 
+bomba e veriﬁ que se não há nenhum 
+objeto bloqueando ou impedindo o 
+correto funcionamento da bomba.
+
+• Nível muito alto de 
+água dentro da lava e 
+seca (alarme no painel 
+- E21)
+
+Porta não abre
+
+Signiﬁ ca que a 
+lava e seca está 
+funcionando 
+normalmente e que 
+após o processo de 
+lavagem/secagem 
+a porta continua 
+travada impedindo a 
+retirada das roupas.
+
+• Alta temperatura no 
+interior da lava e seca
+
+• A sua Lava e Seca Midea impede a 
+abertura da porta se a temperatura 
+no interior do cesto não for segura. 
+Aguarde a temperatura reduzir e 
 tente novamente.
+
 44
+
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 12.1 - Códigos de Alarme no Painel
-Existem alguns problemas de funcionamento que, quando ocorrerem, o aparelho exibirá
+
+Existem alguns problemas de funcionamento que, quando ocorrerem, o aparelho exibirá 
 os códigos de erro para alertá-lo:
-DISPLAY DESCRIÇÃO CAUSA POSSÍVEL SOLUÇÃO
-• Torneira não está aberta • Abra a torneira ou aguarde
-ou a água está correndo até que o fl uxo de água volte
-muito lentamente. ao normal.
-• Filtro de entrada de água • Verifi que o fi ltro de entrada
-Problema no
-está entupido. de água.
-abastecimento
-E10 de água • Mangueira de água está • Destorça a mangueira de
-durante a torcida. entrada de água.
-lavagem. • Não há suprimento de • Verifi que as outras torneiras
-água. do local.
-Caso o problema persista, entre em contato com o SAC Midea
+
+DISPLAY
+DESCRIÇÃO
+CAUSA POSSÍVEL
+SOLUÇÃO
+
+• Abra a torneira ou aguarde 
+até que o ﬂ uxo de água volte 
+ao normal.
+• Veriﬁ que o ﬁ ltro de entrada 
+de água.
+• Destorça a mangueira de 
+entrada de água.
+• Veriﬁ que as outras torneiras 
+do local.
+
+• Torneira não está aberta 
+ou a água está correndo 
+muito lentamente.
+• Filtro de entrada de água 
+está entupido.
+• Mangueira de água está 
+torcida.
+• Não há suprimento de 
+água.
+
+Problema no 
+abastecimento 
+de água 
+durante a 
+lavagem.
+
+E10
+
+Caso o problema persista, entre em contato com o SAC Midea 
 para solicitar atendimento.
+
 • Reinicie o aparelho.
-• Caso o problema persista,
-Transborda-
-E12 • Excesso de água entre em contato com o
-mento
-SAC Midea para solicitar
+• Caso o problema persista, 
+entre em contato com o 
+SAC Midea para solicitar 
 atendimento.
-• Lave e destorça a mangueira
-• Mangueira de saída de de saída de água.
-água está entupida ou • Lave o filtro da bomba de
-Problema de torcida. drenagem.
-E21 drenagem • Bomba de drenagem está • Drene a água através da
-durante a entupida. mangueira de drenagem e
-lavagem. após limpe o fi ltro.
-Caso o problema persista, entre em contato com o SAC Midea
+
+E12
+Transborda-
+mento
+• Excesso de água
+
+• Lave e destorça a mangueira 
+de saída de água.
+• Lave o filtro da bomba de 
+drenagem.
+• Drene a água através da 
+mangueira de drenagem e 
+após limpe o ﬁ ltro.
+
+• Mangueira de saída de 
+água está entupida ou 
+torcida.
+• Bomba de drenagem está 
+entupida.
+
+Problema de 
+drenagem 
+durante a 
+lavagem.
+
+E21
+
+Caso o problema persista, entre em contato com o SAC Midea 
 para solicitar atendimento.
-A porta não está fechada Reinicie depois da porta estar
-Problema na corretamente. devidamente fechada.
+
+A porta não está fechada 
+corretamente.
+Reinicie depois da porta estar 
+devidamente fechada.
+
 E30
+Problema na 
 trava da porta
-Caso o problema persista, entre em contato com o SAC Midea
+
+Caso o problema persista, entre em contato com o SAC Midea 
 para solicitar atendimento.
-Caso o display do painel de controle apresente qualquer outro código de erro, entre em
+
+Caso o display do painel de controle apresente qualquer outro código de erro, entre em 
 contato com o SAC Midea para solicitar atendimento.
+
 45
 MFM01D110WB_USER MANUAL (2024-01_Rev.03)
-Certifi cado de Garantia
-A Lava e Seca Midea é garantida contra defeitos de fabricação, pelo prazo de 2
-anos (24 vinte e quatro meses) contados a partir da emissão da Nota Fiscal ao
-Consumidor. Dentro do período de garantia estão compreendidos 03 (três) meses
+
+Certiﬁ cado de Garantia
+
+A Lava e Seca Midea é garantida contra defeitos de fabricação, pelo prazo de 2 
+anos (24 vinte e quatro meses) contados a partir da emissão da Nota Fiscal ao 
+Consumidor. Dentro do período de garantia estão compreendidos 03 (três) meses 
 de garantia legal e 21 (vinte e um) meses de garantia especial, concedida pela Midea.
-As garantias legal e/ou especial compreendem a substituição de peças e mão
-de obra necessárias para o reparo de defeitos devidamente constatados, pelo
+
+As garantias legal e/ou especial compreendem a substituição de peças e mão 
+de obra necessárias para o reparo de defeitos devidamente constatados, pelo 
 fabricante ou pela Assistência Técnica Autorizada Midea como sendo de fabricação.
-A fabricante não concede qualquer forma e/ou tipo de garantia para produtos
-desacompanhados de Nota Fiscal de venda ao consumidor, ou produtos cuja Nota
+
+A fabricante não concede qualquer forma e/ou tipo de garantia para produtos 
+desacompanhados de Nota Fiscal de venda ao consumidor, ou produtos cuja Nota 
 Fiscal esteja preenchida incorretamente.
-As garantias fi carão automaticamente inválidas se:
-• Na utilização do produto não forem observadas as instruções e recomendações
+
+As garantias ﬁ carão automaticamente inválidas se:
+
+•  
+Na utilização do produto não forem observadas as instruções e recomendações 
 contidas no Manual do Usuário;
-• Na instalação do produto não forem observadas as especificações e
-recomendações do Manual do Usuário quanto às condições de instalação
-do produto, tais como, nivelamento do produto, adequação do local para
+
+•  
+Na instalação do produto não forem observadas as especificações e 
+recomendações do Manual do Usuário quanto às condições de instalação 
+do produto, tais como, nivelamento do produto, adequação do local para 
 instalação, tensão elétrica compatível com o produto etc;
-• Constatada corrosão provocada por riscos, deformações ou similares decorrentes
-da má utilização do produto, bem como eventos consequentes da aplicação
-de produtos químicos, abrasivos ou similares que danifi quem a qualidade ou
+
+•  
+Constatada corrosão provocada por riscos, deformações ou similares decorrentes 
+da má utilização do produto, bem como eventos consequentes da aplicação 
+de produtos químicos, abrasivos ou similares que daniﬁ quem a qualidade ou 
 material componente;
-• O produto for avariado, inadequadamente utilizado ou ainda sofrer alterações,
-modifi cações ou consertos feitos por pessoas ou empresas não autorizadas pela
+
+•  
+O produto for avariado, inadequadamente utilizado ou ainda sofrer alterações, 
+modiﬁ cações ou consertos feitos por pessoas ou empresas não autorizadas pela 
 MIDEA;
-• O defeito for causado por acidente ou má utilização do produto pelo consumidor;
-• Houver sinais de violação do produto, remoção e/ou adulteração do número
-de série ou da etiqueta de identifi cação do produto.
+
+•  
+O defeito for causado por acidente ou má utilização do produto pelo consumidor;
+
+•  
+Houver sinais de violação do produto, remoção e/ou adulteração do número 
+de série ou da etiqueta de identiﬁ cação do produto.
+
 As garantias não cobrem:
-• Despesas com a instalação do produto;
-• Transporte do produto até o local da instalação;
-• Despesas decorrentes e consequentes de instalação de peças e acessórios,
+
+•  
+Despesas com a instalação do produto;
+
+•  
+Transporte do produto até o local da instalação;
+
+•  
+Despesas decorrentes e consequentes de instalação de peças e acessórios, 
 mesmo que comercializados pela Midea;
-• Despesas com mão de obra, materiais, peças e adaptações necessárias à
-preparação do local para instalação do produto, ou seja: rede elétrica, de gás
+
+•  
+Despesas com mão de obra, materiais, peças e adaptações necessárias à 
+preparação do local para instalação do produto, ou seja: rede elétrica, de gás 
 e hidráulica, alvenaria, aterramento, bem como suas adaptações;
-• Falhas no funcionamento do produto decorrentes de insufi ciência, interrupções,
-problemas ou falta de fornecimento de energia elétrica, serviços e/ou despesas
+
+•  
+Falhas no funcionamento do produto decorrentes de insuﬁ ciência, interrupções, 
+problemas ou falta de fornecimento de energia elétrica, serviços e/ou despesas 
 de manutenção e/ou limpeza do produto;
-Certifi cado de Garantia
+
+Certiﬁ cado de Garantia
+
 As garantias não cobrem (continuação):
-• Falhas no funcionamento normal do produto decorrentes de falta de limpeza
-e excesso de resíduos, ou ainda, decorrentes da existência de objetos em seu
-interior estranhos ao seu funcionamento e fi nalidade de utilização;
-• Produtos ou peças que tenham sido danifi cados em consequência de remoção,
+
+•  
+Falhas no funcionamento normal do produto decorrentes de falta de limpeza 
+e excesso de resíduos, ou ainda, decorrentes da existência de objetos em seu 
+interior estranhos ao seu funcionamento e ﬁ nalidade de utilização;
+
+•  
+Produtos ou peças que tenham sido daniﬁ cados em consequência de remoção, 
 manuseio, quedas ou atos decorrentes da natureza;
-• Despesas por procedimentos de inspeção e diagnóstico, incluindo a taxa de
-visita do técnico, que determinem que a falha no produto foi causada por
+
+•  
+Despesas por procedimentos de inspeção e diagnóstico, incluindo a taxa de 
+visita do técnico, que determinem que a falha no produto foi causada por 
 motivo não coberto por esta garantia;
-• Deslocamento para atendimentos de produtos instalados fora do município
-sede da assistência autorizada, a qual poderá cobrar taxa de locomoção do
+
+•  
+Deslocamento para atendimentos de produtos instalados fora do município 
+sede da assistência autorizada, a qual poderá cobrar taxa de locomoção do 
 técnico, previamente aprovada pelo consumidor;
-• Peças sujeitas ao desgaste natural, descartáveis ou consumíveis, peças móveis
-ou removíveis em uso normal, tais como, lâmpadas, fi ltros, botões de comando,
-puxadores, bem como, a mão de obra utilizada na aplicação dessas peças e as
+
+•  
+Peças sujeitas ao desgaste natural, descartáveis ou consumíveis, peças móveis 
+ou removíveis em uso normal, tais como, lâmpadas, ﬁ ltros, botões de comando, 
+puxadores, bem como, a mão de obra utilizada na aplicação dessas peças e as 
 consequências advindas dessas ocorrências;
-• Danos causados por movimentação incorreta e avarias de transporte.
-• Quando a utilização do produto ocorrer de forma comercial, comunitária ou
+
+•  
+Danos causados por movimentação incorreta e avarias de transporte.
+
+•  
+Quando a utilização do produto ocorrer de forma comercial, comunitária ou 
 similar.
+
 Condições Gerais:
-A Midea reserva-se o direito de alterar características gerais, técnicas e estéticas
-de seus produtos, sem aviso prévio. Este termo de garantia é válido para produtos
+
+A Midea reserva-se o direito de alterar características gerais, técnicas e estéticas 
+de seus produtos, sem aviso prévio. Este termo de garantia é válido para produtos 
 vendidos e instalados no território brasileiro.
-Para a sua tranquilidade, preserve e mantenha o Manual do Usuário com este Termo
-de Garantia, Nota Fiscal de Compra e Comprovante de Entrega do produto em local
+
+Para a sua tranquilidade, preserve e mantenha o Manual do Usuário com este Termo 
+de Garantia, Nota Fiscal de Compra e Comprovante de Entrega do produto em local 
 seguro e de fácil acesso.
+
 ESTA GARANTIA É VALIDA APENAS EM TERRITÓRIO BRASILEIRO
-Manual Impresso na China MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
+Manual Impresso na China
+
+MFM01D110WB_USER MANUAL (2024-01_Rev.03)
+
 SPRINGER CARRIER LTDA
 Rua Berto Círio, 521
 Bairro São Luis - Canoas - RS
 CEP: 92.420-030
 CNPJ: 10.948.651/0001-61
-www.midea.com/br SAC MIDEA
-/mideabrasil 3003.1005 para capitais e regiões metropolitanas
+
+www.midea.com/br
+
+SAC MIDEA
+3003.1005 para capitais e regiões metropolitanas
 0800.648.1005 para demais localidades
+
 /mideabrasil
+
+/mideabrasil
+
 Atendimento On-line:
-/mideadobrasil https://www.midea.com/br/contato/
+https://www.midea.com/br/contato/
+
+/mideadobrasil
+
 Rede autorizada
 em todo Brasil.
