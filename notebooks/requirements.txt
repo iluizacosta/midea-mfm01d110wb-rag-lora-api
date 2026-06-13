@@ -3,7 +3,7 @@ transformers==5.9.0
 accelerate==1.13.0
 
 pandas==3.0.3
-pdfplumber==0.11.9
+pymupdf
 tqdm==4.67.3
 
 jupyter==1.1.1
