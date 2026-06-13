@@ -1,0 +1,4 @@
+strategy,num_chunks
+300_chars,302
+500_chars,172
+1000_chars,81

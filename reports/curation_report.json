@@ -1,0 +1,11 @@
+{
+    "total_generated_pairs": 155,
+    "auto_removed_pairs": 30,
+    "manual_removed_pairs": 1,
+    "cleaned_pairs": 124,
+    "corrected_pairs": 80,
+    "valid_without_change": 44,
+    "removed_total": 31,
+    "removed_percentage": 20.0,
+    "corrected_percentage": 64.52
+}
